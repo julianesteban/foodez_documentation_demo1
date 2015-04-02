@@ -1,7 +1,7 @@
 
 To whom it may concern,
 
-Testing was conducted through the use of a Windows Phone 8.1 4.7” emulator. Since our project is a 
+Testing was conducted through the use of a Windows Phone 8.1 emulator. Since our project is a 
 mobile application, running through use cases and user stories using an emulator was employed in lieu 
 of using formal unit testing frameworks and scripts. During implementation of each feature, strenuous unit testing was 
 conducted to ensure that each feature worked as expected: all values displayed were accurate and all interactions with the database

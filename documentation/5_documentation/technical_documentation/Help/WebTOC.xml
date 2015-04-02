@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="11696fb2-0eee-4c1e-9d07-7d085f8c8816" Title="foodez" Url="html/79afaec6-f93d-ee6a-59f8-ef532a9fa71c.htm">
+    <HelpTOCNode Id="a8fa9b7e-43f8-41b7-9be5-965b15b8f0fb" Title="App Class" Url="html/0000f2a3-3813-a6a3-dd63-db03bd9ba696.htm">
+      <HelpTOCNode Title="App Constructor " Url="html/86ded5d3-47a3-58c4-dbc3-309c6678decf.htm" />
+      <HelpTOCNode Id="bcb66c4b-dcb7-4bc4-8674-4bdcc54523f8" Title="App Fields" Url="html/5c02681e-a89b-ddaa-9247-ebebe8ff9fb6.htm">
+        <HelpTOCNode Title="MobileService Field" Url="html/3d65720b-ef2e-ca8d-1c5f-ed0047b47016.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d24ccd5b-efd3-4166-87f9-ce1e9b6079e3" Title="App Methods" Url="html/0fa2b14e-6dce-d710-926a-0176f533c7f8.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/dd2fd274-7c9d-54d2-9137-8ad2738f3aed.htm" />
+        <HelpTOCNode Id="129f95d8-dedb-4337-8b51-62c56c211516" Title="GetXamlType Method " Url="html/93f5534c-fd4c-fb23-cb61-79bc43c8f7eb.htm">
+          <HelpTOCNode Title="GetXamlType Method (String)" Url="html/b533a5f4-c66c-cad3-6d6b-4cc34ab7a391.htm" />
+          <HelpTOCNode Title="GetXamlType Method (Type)" Url="html/a50c6992-9c2f-5bcf-50cf-66ab2b97e2dd.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetXmlnsDefinitions Method " Url="html/11c2c09f-a9b2-e9f0-74b1-e3725b858c46.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/cdf25a29-e4e3-8962-9a86-7326ec1eceb3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="App Properties" Url="html/837515e8-c355-0957-a8bd-2a38a98d59e2.htm" />
+      <HelpTOCNode Title="App Events" Url="html/51a2c7b5-13c7-817c-5e89-714dc6e579fa.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="393f6ca8-63f6-4f43-a514-fb111b73e150" Title="Employee Class" Url="html/7b39b562-2730-8f74-3a06-66779161a36f.htm">
+      <HelpTOCNode Title="Employee Constructor " Url="html/eb110825-e90f-d8ea-e52a-e7e2b5628375.htm" />
+      <HelpTOCNode Title="Employee Methods" Url="html/0aa8a74e-46d0-946e-84fc-6809bf4c82da.htm" />
+      <HelpTOCNode Id="a56185be-bd79-48e6-aa42-9fb13595efc6" Title="Employee Properties" Url="html/cc422be6-bfad-0c7e-7e53-45125029f999.htm">
+        <HelpTOCNode Title="Address Property " Url="html/996c88d2-06e4-0492-42b4-3bfd88ae403d.htm" />
+        <HelpTOCNode Title="Birthday Property " Url="html/fc35eeb4-a52d-68b2-0df9-a2e762f5c4d7.htm" />
+        <HelpTOCNode Title="Gender Property " Url="html/bf18e2c7-dcf5-65c2-765b-e2d1636c6e84.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/f90b4642-0f0b-4ff9-febb-8844cf5484e5.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/036432dc-12cd-46de-6dc0-5c7baee3dbc5.htm" />
+        <HelpTOCNode Title="Password Property " Url="html/50bcd71d-085f-d393-9b54-659dfad8a6fa.htm" />
+        <HelpTOCNode Title="PhoneNumber Property " Url="html/f079fb52-4990-57e5-8b1c-9bfa279c8613.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/17679f2c-f703-b9b2-40f3-89579f3d989d.htm" />
+        <HelpTOCNode Title="Salary Property " Url="html/cb328567-213d-4de0-e386-ec7ded2daed3.htm" />
+        <HelpTOCNode Title="Username Property " Url="html/8532a503-337c-df62-fccd-80b1564e96c9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5969d8c8-2eed-4a46-9784-fc153adffc5f" Title="FoodQueue Class" Url="html/a150ad97-3042-5f93-5abe-bd66a6f4fe79.htm">
+      <HelpTOCNode Title="FoodQueue Constructor " Url="html/df27ac97-01aa-e741-11ac-ec6db34c5548.htm" />
+      <HelpTOCNode Title="FoodQueue Methods" Url="html/35035e67-9705-7497-0132-f8ca6d48f66c.htm" />
+      <HelpTOCNode Id="54ade65c-fd35-4a76-9a80-d79b8ddd0b42" Title="FoodQueue Properties" Url="html/274d41a1-cce4-9267-3782-ba8369c6f7da.htm">
+        <HelpTOCNode Title="Id Property " Url="html/aa6a5055-e804-7685-7729-0d88146d59ee.htm" />
+        <HelpTOCNode Title="Menuitem Property " Url="html/ab7d144d-9806-99f5-f2a4-f91a802b0627.htm" />
+        <HelpTOCNode Title="Orderid Property " Url="html/9fa8ce11-d90f-c3de-1d60-f635a288bce5.htm" />
+        <HelpTOCNode Title="Progress Property " Url="html/2e75f784-ee78-4c1d-e2cc-105b513a3929.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="11bd314f-3807-4648-86ce-11fd84c8dcd5" Title="MainPage Class" Url="html/30dec2dd-8466-571d-f97c-32709b6499a1.htm">
+      <HelpTOCNode Title="MainPage Constructor " Url="html/4f53e009-ac30-71dc-1574-de6a82b48399.htm" />
+      <HelpTOCNode Id="c9e34ec4-5886-4d7e-b96e-1ee399d3182e" Title="MainPage Fields" Url="html/64791653-258d-c55b-1dd8-efe49689bfb9.htm">
+        <HelpTOCNode Title="isCredentialOpen Field" Url="html/16a15b0f-4b09-64af-ccd2-b92c5419c02b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dc752e20-d7cd-459a-937d-f9eb7797b411" Title="MainPage Methods" Url="html/986be8b6-b85f-8072-de93-bdf966f95917.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/42069af4-1aed-ed77-fd16-733a1e51461c.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/a63cfc17-1342-74e4-39b4-c9829a975b62.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MainPage Properties" Url="html/0e6475cb-d401-5c66-afe0-ca37bbdc1631.htm" />
+      <HelpTOCNode Title="MainPage Events" Url="html/cf7bbe38-ec4e-045b-a6c4-5ddaeb0a0c46.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4961704c-d3ff-4612-b59e-ca46690f3aa3" Title="MenuItem Class" Url="html/d3e66b5a-f92f-7b8e-e196-69c8edf983c4.htm">
+      <HelpTOCNode Title="MenuItem Constructor " Url="html/b81cbc4b-23b5-44ac-9278-a0e73539ca6f.htm" />
+      <HelpTOCNode Title="MenuItem Methods" Url="html/1ea0e4c2-3b2b-641d-17fe-307fafa83295.htm" />
+      <HelpTOCNode Id="16560b2e-c5f5-4b45-8584-287a7e5b73b6" Title="MenuItem Properties" Url="html/1bab21f8-2731-a058-4434-8d59c652cc9a.htm">
+        <HelpTOCNode Title="Category Property " Url="html/b16d34ac-dd3b-4edb-c105-eb7a96e1dd91.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/b0c15194-4927-8105-0e3f-435361d397c5.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/80af6f29-d985-8c32-5067-c8486d117c80.htm" />
+        <HelpTOCNode Title="Price Property " Url="html/bd59355e-d3a7-664b-d024-802f10c45ccb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c8f85a09-6110-46ba-ace6-e937396b8966" Title="Order Class" Url="html/11eaf1a2-f465-b7ec-e89a-ec54ea027955.htm">
+      <HelpTOCNode Title="Order Constructor " Url="html/c01839d8-754c-8149-eb9c-9ff9994f8fd7.htm" />
+      <HelpTOCNode Title="Order Methods" Url="html/138a7ccf-031e-2ec3-eed1-08e0c709e39e.htm" />
+      <HelpTOCNode Id="c34bd97a-6232-4212-b9b3-ed4381435e05" Title="Order Properties" Url="html/31c9d9d1-6bc6-4257-76b3-76891c549131.htm">
+        <HelpTOCNode Title="Completed Property " Url="html/dda1fe67-cc2a-7345-ee7b-97a70fe45c83.htm" />
+        <HelpTOCNode Title="Cost Property " Url="html/c8777143-2e80-9a38-cc93-7f4fb3cb2e84.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/3be2f894-f004-2d57-29d3-3e1b2c9072c6.htm" />
+        <HelpTOCNode Title="Ordernum Property " Url="html/12772ffb-d12c-91b8-5d1b-72d6d88743ef.htm" />
+        <HelpTOCNode Title="Tablename Property " Url="html/9c17bee5-283e-7fa8-2dbc-413cf01e4683.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad02ab4b-1c79-4101-aa4e-708333720719" Title="OrderList Class" Url="html/103d636e-05d4-eca6-e76d-9b4d115b707e.htm">
+      <HelpTOCNode Title="OrderList Constructor " Url="html/b6d4ffab-150b-6e72-eeb5-ce827f95f28f.htm" />
+      <HelpTOCNode Title="OrderList Methods" Url="html/590377ce-85b6-d5a7-a56a-d40ca99bd400.htm" />
+      <HelpTOCNode Id="dc0415d5-976d-48f2-a156-18fdbadb1a89" Title="OrderList Properties" Url="html/b105a8f8-7d67-3921-4795-0ed6fcba2cb0.htm">
+        <HelpTOCNode Title="Completed Property " Url="html/78fb5533-9d3a-08b8-2e10-e3021261c3fd.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/b3be9a59-d484-88a6-1440-0edebc0858e8.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/ccdac344-6e14-228f-2470-0b9490eb6f86.htm" />
+        <HelpTOCNode Title="Orderid Property " Url="html/b540bf85-95ec-d62e-df55-c17093f26d27.htm" />
+        <HelpTOCNode Title="Price Property " Url="html/bf2e6cf1-09b7-e047-7877-f193cc37dddb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Program Class" Url="html/5bd16b1a-7347-524b-11f2-5fbb50191d2a.htm" />
+    <HelpTOCNode Id="f9bafa4e-e90c-479b-831f-f9fed75a12a3" Title="Table Class" Url="html/502481f3-d3d9-6048-0fca-9bfdd5f7c7f8.htm">
+      <HelpTOCNode Title="Table Constructor " Url="html/4063162b-d487-df57-f5d9-393422df8dfd.htm" />
+      <HelpTOCNode Title="Table Methods" Url="html/394eca65-5b89-f0b1-c4b2-f062afb96256.htm" />
+      <HelpTOCNode Id="aec87829-acdc-4285-84eb-47e5bfea33cd" Title="Table Properties" Url="html/f6c022ac-d8ac-672d-2626-a3147e45a95f.htm">
+        <HelpTOCNode Title="Id Property " Url="html/d478977b-af9e-4443-775d-457827ab43af.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/47f11f54-e022-fb43-1188-c551de93200b.htm" />
+        <HelpTOCNode Title="OrderID Property " Url="html/c436cf17-3966-d028-1ea3-1a6a2edca3a0.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/454eff83-e198-4c84-8e94-3aeaa7a7047c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7fdb3f0c-8081-4fcb-8030-62e2553e2a7f" Title="TodoItem Class" Url="html/c6c600b8-6a04-12aa-a22b-e53138478f2a.htm">
+      <HelpTOCNode Title="TodoItem Constructor " Url="html/bd972985-398c-f9a6-bce6-738ab20d2ea0.htm" />
+      <HelpTOCNode Title="TodoItem Methods" Url="html/c9c7015a-cb14-501c-90f3-0627bc8463f0.htm" />
+      <HelpTOCNode Id="6fd48d15-311d-4b02-95af-ed770ee47449" Title="TodoItem Properties" Url="html/edd1ec8b-49f3-bf04-86d8-5c3c5fe0b72f.htm">
+        <HelpTOCNode Title="Complete Property " Url="html/3927792b-ffd0-c79b-75e1-4aad203610e9.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/10301b26-3326-9757-daac-a475b97af70b.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/98db6e1b-9cf8-70f1-0b54-c80c79c5107a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c7597caa-3fcd-4643-8c1b-fed02436e264" Title="foodez.BartenderPages" Url="html/2d686a82-946a-2d52-4db9-de152339cdc8.htm">
+    <HelpTOCNode Id="a742cd22-8fcf-4b85-b2ee-226f385d2dd1" Title="BartenderMain Class" Url="html/98b51e6c-05f5-903f-8590-d107a3e18066.htm">
+      <HelpTOCNode Title="BartenderMain Constructor " Url="html/7205f55b-0751-c137-1a0b-2b9a72162b87.htm" />
+      <HelpTOCNode Id="0699f54f-551c-44bf-8963-fd1a048712d9" Title="BartenderMain Methods" Url="html/c24a1e02-d1bf-97d9-9b2b-bae47525b93b.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/bd053961-8953-d8b5-6884-58203cc036a1.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/fe9b6729-a6c1-2273-9488-5d3a3a3b3666.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="BartenderMain Properties" Url="html/07e4dc9d-2f65-b205-d3d1-f8651cc0fa93.htm" />
+      <HelpTOCNode Title="BartenderMain Events" Url="html/e1fb90b0-2b49-ee2e-0390-27affd0dec97.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="202e3d85-0c79-4fb8-839d-2b4bd3255208" Title="foodez.BusBoyPages" Url="html/94f3470b-dc41-2189-f88d-a803cb2ca16c.htm">
+    <HelpTOCNode Id="10584083-d093-4dcf-8463-e67539dd7b1a" Title="BusBoyMain Class" Url="html/30bc3de4-efac-b099-8f41-fbe4ffd4ad0b.htm">
+      <HelpTOCNode Title="BusBoyMain Constructor " Url="html/9bffac42-736d-663a-1c2a-6689406e579a.htm" />
+      <HelpTOCNode Id="3b66e7fc-e91b-40bb-bb58-2b456372a23e" Title="BusBoyMain Methods" Url="html/ee686919-824c-a455-1591-842f1f74934a.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/4013c407-ff6a-0f67-ed82-f805463bd685.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/ff2ddbcf-1d4b-006b-53c8-5a31689ad065.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="BusBoyMain Properties" Url="html/51380412-641c-6031-8316-8146caa9eb25.htm" />
+      <HelpTOCNode Title="BusBoyMain Events" Url="html/1eb33d73-e3eb-5434-81c0-c13242746010.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="e9c5899f-ee1f-4bbe-9894-b60deca928c2" Title="foodez.ChefPages" Url="html/7ae11025-fc44-5706-664b-f7f3162af860.htm">
+    <HelpTOCNode Id="6f8a009f-7291-4c0b-ab5a-6b93fd354fc8" Title="ChefMain Class" Url="html/0d11c7d7-ab0c-14b6-27db-1d4c697af9a4.htm">
+      <HelpTOCNode Title="ChefMain Constructor " Url="html/9a47abce-07cc-62f8-dafd-667f2113aea9.htm" />
+      <HelpTOCNode Id="32b72561-2680-41bb-b718-5b4a400d66cc" Title="ChefMain Methods" Url="html/4aa7ebc9-7db4-24ef-8b69-68d93ecf1643.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/2589ff59-d908-74ff-b7c5-afa7504bc962.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/bad2febf-a7e3-27a6-734b-c4c3b9aed92b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ChefMain Properties" Url="html/e7298334-d8ba-75ad-248d-5c19af318259.htm" />
+      <HelpTOCNode Title="ChefMain Events" Url="html/232a5503-f734-7dec-bf14-6dd8661b34e4.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0f2ba876-8821-47d4-b836-cee5702cd4f4" Title="FoodQueue Class" Url="html/e8dbf7ef-6d1c-35de-1596-9fc553e60b84.htm">
+      <HelpTOCNode Title="FoodQueue Constructor " Url="html/4003af40-878f-41ed-86fd-2070bd8b7206.htm" />
+      <HelpTOCNode Id="0f6962ea-0ab7-4ab6-87bb-0d5b2896c81e" Title="FoodQueue Methods" Url="html/bee8e31c-75fc-c840-b98b-6b19a8d01fd2.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/186dd2c7-72e7-4386-ac35-7073ae0ce891.htm" />
+        <HelpTOCNode Title="GetFoodTable Method " Url="html/bdee5a0b-29ad-2c24-8879-037b874b0fc9.htm" />
+        <HelpTOCNode Title="GetOrderList Method " Url="html/1b935a58-ca72-5f15-536c-e7d429610875.htm" />
+        <HelpTOCNode Title="GetOrders Method " Url="html/b29ce3d8-73d5-f8f1-d735-3467c6b07cae.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/a6d179ce-e89b-3588-d649-6effdbac1b22.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8913f7de-cad7-4733-8846-3c86fd905da6" Title="FoodQueue Properties" Url="html/a5fee01f-6442-2181-b85c-8e0be65a971a.htm">
+        <HelpTOCNode Title="DefaultViewModel Property " Url="html/513e8ec5-7174-6ec5-d6da-57e990ea227f.htm" />
+        <HelpTOCNode Title="NavigationHelper Property " Url="html/a987fad3-3b2f-4782-78bd-f397fe188657.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FoodQueue Events" Url="html/6426018f-ef8f-4fa9-fe3c-2cfa0cb35b92.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5f696a07-76d2-4411-8dbe-24d85dbdfae4" Title="foodez.Classes" Url="html/b50b8d34-f30b-433c-3e9e-131d0872a111.htm">
+    <HelpTOCNode Id="62721d5f-8b2b-4a7c-a348-7172686b9c24" Title="FoodProgress Class" Url="html/ce62262c-552c-7808-6e80-a89ea8d138d3.htm">
+      <HelpTOCNode Title="FoodProgress Constructor " Url="html/3805b743-8251-d54f-3e6d-65f0b91c0568.htm" />
+      <HelpTOCNode Title="FoodProgress Methods" Url="html/942afe90-04a4-b34b-0194-57ea6ccbe8a7.htm" />
+      <HelpTOCNode Id="8cf2b8e4-ca34-419f-82cb-4c41284acc2d" Title="FoodProgress Properties" Url="html/0381cd79-4609-bcd6-f770-2dd2b497221c.htm">
+        <HelpTOCNode Title="Name Property " Url="html/2b6f0150-14ec-832d-06fb-8536abb2d306.htm" />
+        <HelpTOCNode Title="Progress Property " Url="html/2210ed41-26c8-4128-feff-c45bb1bcad5a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="35e2841c-2738-41f0-aeaf-d2e7af4c7722" Title="FoodTable Class" Url="html/716cb2c3-83f2-43d8-7053-4483c188c457.htm">
+      <HelpTOCNode Title="FoodTable Constructor " Url="html/fba0376a-1032-803d-db0a-634b4de8bc34.htm" />
+      <HelpTOCNode Title="FoodTable Methods" Url="html/70c194a0-adf3-32d7-46c8-a7294f42e42b.htm" />
+      <HelpTOCNode Id="739fdbf5-4c0c-44db-a470-09466bb72b34" Title="FoodTable Properties" Url="html/5536d68b-bc74-7eef-5644-976f8de0475f.htm">
+        <HelpTOCNode Title="Completed Property " Url="html/35bce6fb-9a6d-4e29-cbc4-db099aaad46a.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/a9008adf-6b82-f547-18de-a559379d97b0.htm" />
+        <HelpTOCNode Title="TableName Property " Url="html/bbccb80c-b254-730f-a430-99ae4d7f47b2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="cfa955aa-4cda-4f0e-af0d-c828712e8567" Title="foodez.Common" Url="html/3592c919-f771-3768-0927-2d2bb5eb6db9.htm">
+    <HelpTOCNode Id="cf1d0c27-5ddc-4038-b518-1b130d512f75" Title="LoadStateEventArgs Class" Url="html/a19dae58-a53c-2c31-56b9-bb86688abf51.htm">
+      <HelpTOCNode Title="LoadStateEventArgs Constructor " Url="html/4463ad93-56bc-3fd7-e9f2-f53da6efa470.htm" />
+      <HelpTOCNode Title="LoadStateEventArgs Methods" Url="html/327c3688-3ad6-0ed3-8f8f-f88131a9e54c.htm" />
+      <HelpTOCNode Id="8c708f51-8503-43de-816f-fdf9d2936649" Title="LoadStateEventArgs Properties" Url="html/229c5540-530d-79b6-91fb-0186a4fc3eee.htm">
+        <HelpTOCNode Title="NavigationParameter Property " Url="html/1b45474f-6a7d-e415-f0da-70e00b86ac85.htm" />
+        <HelpTOCNode Title="PageState Property " Url="html/0a5590f4-38a2-69a6-b5a6-021b84367d30.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="LoadStateEventHandler Delegate" Url="html/bf2c0fb9-e543-3768-7c30-af4a31c602c9.htm" />
+    <HelpTOCNode Id="a9ed0543-75b9-4c84-a812-890af72b9239" Title="NavigationHelper Class" Url="html/a5b7b57e-3990-1d58-f915-5f32d437da32.htm">
+      <HelpTOCNode Title="NavigationHelper Constructor " Url="html/8cbe15e9-00d9-bb66-a605-672eeed01160.htm" />
+      <HelpTOCNode Id="cfd3dffa-6c9d-4981-b715-d1fab896830c" Title="NavigationHelper Methods" Url="html/f4717809-eee1-3209-415d-0b0cc0d8a747.htm">
+        <HelpTOCNode Title="CanGoBack Method " Url="html/f9354240-c8fc-17f5-0451-c5ceaee5d82e.htm" />
+        <HelpTOCNode Title="CanGoForward Method " Url="html/fdd64157-99a9-5d9d-ce0f-dd3f5554f69f.htm" />
+        <HelpTOCNode Title="GoBack Method " Url="html/e3dca6ad-19e1-0175-b0b0-9f97d7c077f0.htm" />
+        <HelpTOCNode Title="GoForward Method " Url="html/7bb59b6c-b931-f86c-d774-796a00c42822.htm" />
+        <HelpTOCNode Title="OnNavigatedFrom Method " Url="html/bed0265a-4380-405c-3945-fe78ec073f1b.htm" />
+        <HelpTOCNode Title="OnNavigatedTo Method " Url="html/c244dc52-daf4-5a39-e200-13cf5eccaea4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="062f73ee-8d10-451b-ba90-2383cd0ead00" Title="NavigationHelper Properties" Url="html/5b996ccf-9cf8-644d-bc95-992385b83e09.htm">
+        <HelpTOCNode Title="GoBackCommand Property " Url="html/f8c785d0-a187-d211-36a4-e3541b368c66.htm" />
+        <HelpTOCNode Title="GoForwardCommand Property " Url="html/1e17ee62-4317-194a-789c-9c03d2fe48c8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a2f9f055-2604-4740-95d4-a2cf5dde4dd7" Title="NavigationHelper Events" Url="html/9eb1c2d3-2714-ad2e-1570-927ab2adcbea.htm">
+        <HelpTOCNode Title="LoadState Event" Url="html/b3606cc6-29ff-da4a-0139-c108fc1cc9e8.htm" />
+        <HelpTOCNode Title="SaveState Event" Url="html/96ed93a4-34ea-459f-f010-96d1c2755b4b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f08b8155-723b-4e7e-ae45-ebcffc221da8" Title="ObservableDictionary Class" Url="html/6049b56c-1775-c4c7-4c8f-b8cce084d545.htm">
+      <HelpTOCNode Title="ObservableDictionary Constructor " Url="html/20d3c84c-23b0-6c01-dd7d-c35886874df8.htm" />
+      <HelpTOCNode Id="4945c852-85e5-4cd6-b753-16bbee4897b1" Title="ObservableDictionary Methods" Url="html/abbd7795-7326-b1eb-fa98-6efe2ee4dccc.htm">
+        <HelpTOCNode Id="5d7d0c9b-3391-4b0c-b457-406a06a034e8" Title="Add Method " Url="html/abf3f6f2-0414-1ef9-9262-8a59731ea417.htm">
+          <HelpTOCNode Title="Add Method (KeyValuePair(String, Object))" Url="html/4f617c2c-9ce1-de05-1896-7d9227963ca1.htm" />
+          <HelpTOCNode Title="Add Method (String, Object)" Url="html/e86f5574-a2e8-d9b7-af92-1b552afd2a3d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Clear Method " Url="html/f2afd9cd-f7d5-362e-6e0a-38c24899289f.htm" />
+        <HelpTOCNode Title="Contains Method " Url="html/4a7d70fe-f931-d722-494f-b57884781c9e.htm" />
+        <HelpTOCNode Title="ContainsKey Method " Url="html/7bd95a63-a49f-1b91-ed9b-9c97e21abc10.htm" />
+        <HelpTOCNode Title="CopyTo Method " Url="html/92b7c5d6-8f45-044b-adf2-a89608a6dc66.htm" />
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/b1e7cb4c-87a5-28b3-262a-fa80b99ae10d.htm" />
+        <HelpTOCNode Id="844e76c6-1a50-409a-9c68-511e5a1fc29b" Title="Remove Method " Url="html/b6fbe5c0-248b-336c-0d03-88328f71edcf.htm">
+          <HelpTOCNode Title="Remove Method (KeyValuePair(String, Object))" Url="html/5d20c05e-dda0-8b2f-b2ab-3b712d3adec7.htm" />
+          <HelpTOCNode Title="Remove Method (String)" Url="html/815bb9b4-8786-baf3-8757-e2cc09bf7268.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TryGetValue Method " Url="html/a17b1dc5-6a16-7005-b8cd-5ea16faf06d9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="22af291c-0300-4e17-9658-de983355c04e" Title="ObservableDictionary Properties" Url="html/68c81daa-f48a-8fb7-2602-c6963f39d8c2.htm">
+        <HelpTOCNode Title="Count Property " Url="html/1efe978e-08d8-cd3f-717b-fafa54854c9c.htm" />
+        <HelpTOCNode Title="IsReadOnly Property " Url="html/7c03dd5c-b4aa-e5c8-d062-33f2e62c3028.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/33324a3a-a0f3-c6f7-e42f-a61dbdf782c1.htm" />
+        <HelpTOCNode Title="Keys Property " Url="html/237e7df6-5977-f7d8-8ba2-8aac662f98f2.htm" />
+        <HelpTOCNode Title="Values Property " Url="html/51bd822f-72e1-5b51-9b96-0a1b2ecd1b18.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="11e8fa2e-ce8c-4a2c-a765-153eddbc8fbf" Title="ObservableDictionary Events" Url="html/1f9807f4-35c8-099b-581a-c157f2ae8269.htm">
+        <HelpTOCNode Title="MapChanged Event" Url="html/82d77f89-adb3-d70f-9419-a1cafb2711fd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0abf0e35-a959-4f42-bf4e-c10cc914b709" Title="RelayCommand Class" Url="html/8005a0e5-99be-123e-ca0a-fe382be5045b.htm">
+      <HelpTOCNode Id="9aa44d0d-000f-455b-90b5-61fbca380d66" Title="RelayCommand Constructor " Url="html/5362ead8-b616-2d4d-1bf0-c218e5e52477.htm">
+        <HelpTOCNode Title="RelayCommand Constructor (Action)" Url="html/1753561d-8e9b-9241-765c-f74896837674.htm" />
+        <HelpTOCNode Title="RelayCommand Constructor (Action, Func(Boolean))" Url="html/25dbe18c-0c2e-3944-2b16-c7a98a11e907.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ede840cb-0d01-4c65-aee5-e721fbcb8021" Title="RelayCommand Methods" Url="html/e81f9458-72f6-4f56-fdfe-b7ee9038d44c.htm">
+        <HelpTOCNode Title="CanExecute Method " Url="html/53f20739-761b-1910-b4cb-0bc53e34a216.htm" />
+        <HelpTOCNode Title="Execute Method " Url="html/2a899719-aa02-870c-3bd5-a082b773a028.htm" />
+        <HelpTOCNode Title="RaiseCanExecuteChanged Method " Url="html/16a4c4f9-d861-e759-2054-e981f59f2a17.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8a1d1a30-f9d0-4c61-9427-74aed42e0d1e" Title="RelayCommand Events" Url="html/48630511-6fed-9827-d620-c8282a22f163.htm">
+        <HelpTOCNode Title="CanExecuteChanged Event" Url="html/507d2fb8-9d84-dd20-96db-ce0d835c51c9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d86a6b6c-57b2-455f-aa60-9d128537fa76" Title="SaveStateEventArgs Class" Url="html/a4b17f9a-6d43-0194-1179-8404bb239258.htm">
+      <HelpTOCNode Title="SaveStateEventArgs Constructor " Url="html/5ec1fd6c-53d6-fd10-918b-1a67aa7dbf54.htm" />
+      <HelpTOCNode Title="SaveStateEventArgs Methods" Url="html/a8cdfff8-dec1-41fc-fadc-c423909d3acf.htm" />
+      <HelpTOCNode Id="7a9128a5-9f0b-4be9-92aa-514f867afa8f" Title="SaveStateEventArgs Properties" Url="html/b4fbd7bf-9130-7db8-d973-2c2620ec1495.htm">
+        <HelpTOCNode Title="PageState Property " Url="html/6a25d030-10ed-dfb3-4938-0c76a095205f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="SaveStateEventHandler Delegate" Url="html/5302a259-b79d-7e68-64b4-3d724d48cdeb.htm" />
+    <HelpTOCNode Id="9da4a23a-d137-40c8-8992-1465b785b24c" Title="SuspensionManagerException Class" Url="html/4af64d97-a148-3874-ac10-9db48718a223.htm">
+      <HelpTOCNode Id="eab6bd43-8cb4-482f-9d27-4aa4b252d628" Title="SuspensionManagerException Constructor " Url="html/17f00012-6ba2-45a3-16f4-3c0e52875dce.htm">
+        <HelpTOCNode Title="SuspensionManagerException Constructor " Url="html/2d817497-af69-4161-e8cb-391525adbd2d.htm" />
+        <HelpTOCNode Title="SuspensionManagerException Constructor (Exception)" Url="html/fcf57982-fa90-57cd-ba20-a9e1b71cdd51.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SuspensionManagerException Methods" Url="html/f685d114-3e1b-c738-cd60-4392f8165489.htm" />
+      <HelpTOCNode Title="SuspensionManagerException Properties" Url="html/d3672938-9873-d75f-3bf4-4cfea9cd416a.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="e2c19401-1ac5-4937-993d-bcb72e62393d" Title="foodez.Common.JumpList" Url="html/3592d1ee-c22b-6b2a-5c43-f3f21679ca3b.htm">
+    <HelpTOCNode Id="0ec40e66-29ac-49e7-aa7e-3e283a7ec6a0" Title="JumpListGroup(T) Class" Url="html/8d96a7d3-31b8-9ddd-7b7e-b590034a5d8f.htm">
+      <HelpTOCNode Title="JumpListGroup(T) Constructor " Url="html/cbca8a5a-cb44-e0db-ef20-66f31de29717.htm" />
+      <HelpTOCNode Id="956ccd9e-aeb1-4287-b7e8-6b41ab9abfba" Title="JumpListGroup(T) Methods" Url="html/f5886d3d-0482-d937-3c97-30440c580eba.htm">
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/0e6abf37-077f-d858-86b2-971b02a3ef16.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="68988bfe-c9c7-4e19-be6f-9757cff9156b" Title="JumpListGroup(T) Properties" Url="html/ae9650eb-5e03-162c-9fce-aeed75e9982d.htm">
+        <HelpTOCNode Title="Key Property " Url="html/8dc8ae7e-92de-8fc3-502b-47f2848bacb3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5a0eeb3a-4340-4586-b467-db7496d7f480" Title="JumpListHelper Class" Url="html/56fded28-e5a5-2b06-efa3-8b2a8cab0d92.htm">
+      <HelpTOCNode Id="71ca0cf1-f4a5-491e-b4f8-4ca5c0f8dacb" Title="JumpListHelper Methods" Url="html/01487552-fea2-dded-5f6d-0c6602586a4c.htm">
+        <HelpTOCNode Title="ToAlphaGroups(TSource) Method " Url="html/a1e03f1a-7719-0588-4614-c70f0f55aa12.htm" />
+        <HelpTOCNode Title="ToGroups(TSource, TSort, TGroup) Method " Url="html/c91f1023-5aad-685c-3bd7-166adfafbfaf.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="303f1471-5b9e-484e-bdce-df883f43f3b7" Title="foodez.ManagerPages" Url="html/2a7f2228-5f83-97c6-91e0-9f44977f3ece.htm">
+    <HelpTOCNode Id="5ce0769a-522a-4fe0-a741-2681d66cfd40" Title="BusinessStats Class" Url="html/860c5090-f087-50c9-775f-1c23b360fcbf.htm">
+      <HelpTOCNode Title="BusinessStats Constructor " Url="html/4f53241e-6b33-00b3-19d3-d7a2ec8ef16d.htm" />
+      <HelpTOCNode Id="8ae39bd7-e6ac-443b-ae9a-fe1d6132c6e7" Title="BusinessStats Methods" Url="html/4cc7456b-8d5d-8b1e-a8e4-d4e64ff7128e.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/c89db055-7c18-1344-6c15-8173d8e0f275.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/f49a3d3a-03fb-9724-b4bd-c40c5c9e2688.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="77ab7fe3-1063-447e-b3b4-2cdef71208e6" Title="BusinessStats Properties" Url="html/bfc5a0f9-4176-ca9d-e569-0839a0b45f28.htm">
+        <HelpTOCNode Title="DefaultViewModel Property " Url="html/e62f3167-33ae-7d06-16bd-9e16df5d69cc.htm" />
+        <HelpTOCNode Title="NavigationHelper Property " Url="html/1ef107d6-8eab-c475-f6b9-8bb359c2e4a4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="BusinessStats Events" Url="html/a4b97d3c-3ae6-4f5f-e5b8-b61fd2a640e5.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="cb979fa4-0d08-4c2d-bb5f-671dbe2400a4" Title="EmployeeInfo Class" Url="html/7d95dfe2-4ba1-c36a-4ebc-53a73dce531a.htm">
+      <HelpTOCNode Title="EmployeeInfo Constructor " Url="html/865d313e-9478-41df-ed67-d7a907f52779.htm" />
+      <HelpTOCNode Id="bba184f2-d4a7-4588-bbc2-d93b2b06d103" Title="EmployeeInfo Fields" Url="html/30a7ceac-bee3-e6fb-d511-a789c41127a1.htm">
+        <HelpTOCNode Title="employeeIndex Field" Url="html/cf005000-7027-3b0f-daca-72dad047ed6c.htm" />
+        <HelpTOCNode Title="employeeIndexString Field" Url="html/8ba0605c-7c1d-5647-9035-39838e928687.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5ee27fb8-9a2e-4096-b5f5-355354faaa57" Title="EmployeeInfo Methods" Url="html/b8b88550-eb33-dfd4-59df-ad776e60ebcb.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/d8d3dee6-4bc6-fe4c-763e-7841d048551c.htm" />
+        <HelpTOCNode Title="GetEmployees Method " Url="html/125db9e3-3724-a23f-9bac-f750ea1f0298.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/86cc94d0-f249-0134-717e-a31b897a51ff.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e6749a00-ba61-422e-8107-4521a764fcce" Title="EmployeeInfo Properties" Url="html/cd3e8a59-5669-4fe3-5354-efe951ffda68.htm">
+        <HelpTOCNode Title="DefaultViewModel Property " Url="html/4fa569e9-be66-48d9-3457-111b0fe68248.htm" />
+        <HelpTOCNode Title="NavigationHelper Property " Url="html/f7c3955b-50fa-e05f-2668-15cf75b2601a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="EmployeeInfo Events" Url="html/d24f4b56-837d-db2d-fde4-ba8317d420a9.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a3241221-b036-4ad9-bdca-4a6a20945562" Title="ManageEmployees Class" Url="html/d798fc0d-3db2-5b85-11f9-dd09409dad93.htm">
+      <HelpTOCNode Title="ManageEmployees Constructor " Url="html/f3669c4a-030f-ad48-5d9c-9ba6dd44cb3f.htm" />
+      <HelpTOCNode Id="4aa90192-925c-4b77-b0f2-a97ea8b9cbf4" Title="ManageEmployees Methods" Url="html/b0387efe-3bf9-dc0a-ffee-6e086929d9e4.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/08395be8-6e5f-49fa-9078-71ebeacf95ff.htm" />
+        <HelpTOCNode Title="GetEmployees Method " Url="html/03d89bc3-b4aa-14a8-7c96-85864eae5461.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/d63f3ffc-212a-fb4a-606d-a3a5bf6355fe.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="32e806e6-efe3-4eaa-b2fd-1c19fdb98425" Title="ManageEmployees Properties" Url="html/d15c45d2-2c5c-6e32-610b-e4014abcc402.htm">
+        <HelpTOCNode Title="DefaultViewModel Property " Url="html/5686059a-2b29-2f59-e51a-e3cb95c21b9f.htm" />
+        <HelpTOCNode Title="NavigationHelper Property " Url="html/07ed9328-4b07-d8c6-04e0-315888955bb7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ManageEmployees Events" Url="html/4c9ef7f5-4125-835f-8b14-e1e631236300.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="df36c855-cd63-4cb8-a5f9-525824fcba78" Title="ManagerMain Class" Url="html/ce29b33e-dfba-7adf-1d8e-e93860a25e6b.htm">
+      <HelpTOCNode Title="ManagerMain Constructor " Url="html/6d9aaeb7-a672-f0ad-976b-1331a0860b14.htm" />
+      <HelpTOCNode Id="7bacdf46-a07f-4ed7-b290-25e742fde7b6" Title="ManagerMain Methods" Url="html/5163eec2-731e-34aa-90f9-f5083f61919a.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/60c83e88-922d-fa7b-90cd-5b50971ffad0.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/6c44cf61-d84c-fe7b-b0a1-485c58e6be93.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ManagerMain Properties" Url="html/f4f55354-3aa2-57ed-2ea5-27a00f27c736.htm" />
+      <HelpTOCNode Title="ManagerMain Events" Url="html/b66f90c9-01e0-db81-fc3e-d593dbd1a44a.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c574f02e-91c8-4bb3-91df-d984a272356e" Title="foodez.SharedPages" Url="html/1bbcfcaa-76c2-1afa-e9cb-e014ee42b61b.htm">
+    <HelpTOCNode Id="6c4f1821-01c1-4202-8bab-43cd1fc205ba" Title="FloorPlan Class" Url="html/e3f49159-07e6-6947-5ff3-6c630440b752.htm">
+      <HelpTOCNode Title="FloorPlan Constructor " Url="html/8d573768-79a3-97c3-9c04-7d1708dcfa56.htm" />
+      <HelpTOCNode Id="abd8a3b5-edb7-432a-be6f-675198df9b00" Title="FloorPlan Fields" Url="html/6bf434ab-36e2-ed22-faf5-df2448cfacc2.htm">
+        <HelpTOCNode Title="isBusboy Field" Url="html/ee372fb6-bb7f-20fd-c7a6-bce8f24a6f63.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="45cb8a7c-b5a8-4fcc-aa2d-0197435b4f67" Title="FloorPlan Methods" Url="html/75c1c02f-b972-ecdc-64c7-1f2018f34460.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/8aafff99-ecbb-bf3b-b5e3-14ec044de995.htm" />
+        <HelpTOCNode Title="GetColor Method " Url="html/cedab90f-f043-af1c-86b7-231ec9dd04fc.htm" />
+        <HelpTOCNode Title="GetTables Method " Url="html/20550e4b-6f0f-7262-9484-5746e77d451e.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/d884b42d-2988-650a-6611-39e3cdf42ea2.htm" />
+        <HelpTOCNode Title="UpdateTable Method " Url="html/6d648ab1-c3b0-9253-2b9d-9f159771c7b3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8476d3cb-1d70-4c15-955e-afd83061e548" Title="FloorPlan Properties" Url="html/f6d6dc31-f04b-0bf1-4f1a-1bccc2301e2b.htm">
+        <HelpTOCNode Title="DefaultViewModel Property " Url="html/20212c19-83ae-44a3-e952-28f793f1932e.htm" />
+        <HelpTOCNode Title="NavigationHelper Property " Url="html/10778a31-24d0-7c13-569d-03b0b6b910ea.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FloorPlan Events" Url="html/0c10a3bb-cea4-dae9-3623-25b13b23f6c0.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="4465b7af-ee53-4d35-9258-351bbd08097a" Title="foodez.WaiterPages" Url="html/79262cde-ee37-a0d3-cc8b-2240a0abb21c.htm">
+    <HelpTOCNode Id="2d8fae4d-a547-42a8-ae00-dd4618fc6eb3" Title="FoodMenuPage Class" Url="html/6092c784-0a63-33a1-6561-3c08cc9cfc7b.htm">
+      <HelpTOCNode Title="FoodMenuPage Constructor " Url="html/bb9f1630-5854-27b4-72a2-bdc21b0292c8.htm" />
+      <HelpTOCNode Id="e5109870-b218-4d42-85ec-5b020066998d" Title="FoodMenuPage Fields" Url="html/5ebaab31-d93c-ebf1-bf7d-0bf05d99dceb.htm">
+        <HelpTOCNode Title="appetizersList Field" Url="html/46d2a9c0-557c-5b19-1da4-018af495807f.htm" />
+        <HelpTOCNode Title="BillTotal Field" Url="html/fedc860c-b7e9-abdc-8230-bbcca99d07a4.htm" />
+        <HelpTOCNode Title="dessertsList Field" Url="html/909dba05-4155-85ed-ba9f-5d9923186ff9.htm" />
+        <HelpTOCNode Title="drinksList Field" Url="html/95ab94f0-2093-983c-6d53-cfe09281d722.htm" />
+        <HelpTOCNode Title="entreesList Field" Url="html/c3c57026-80e4-d0ec-1308-d231823f2494.htm" />
+        <HelpTOCNode Title="newOrder Field" Url="html/03d4d7bb-05c7-d7e4-f703-e3cd6b8cdacb.htm" />
+        <HelpTOCNode Title="newOrderItem Field" Url="html/8e64658f-f4cd-e667-3084-f5ff30c3aeed.htm" />
+        <HelpTOCNode Title="NewOrderList Field" Url="html/bb5676a8-2721-7c87-4c3f-51d080383794.htm" />
+        <HelpTOCNode Title="OrderIndex Field" Url="html/9fe2cbb2-dd32-ce19-488e-386d09a20f68.htm" />
+        <HelpTOCNode Title="OrderItemIndex Field" Url="html/2c322ac8-4c13-99cc-cdf4-9dddecb91ba1.htm" />
+        <HelpTOCNode Title="tableIndex Field" Url="html/c49395fa-fe8d-d3cb-c811-32661d3a3dfc.htm" />
+        <HelpTOCNode Title="tempOrderlist Field" Url="html/5e8a53bb-9f7b-4a82-02aa-897268189d01.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bffc2c40-c7a7-46e7-88a8-c676dd130348" Title="FoodMenuPage Methods" Url="html/8ea53607-1717-0808-bf99-fb6c382615f4.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/21352247-3a9b-38ab-b291-d5b6313301b7.htm" />
+        <HelpTOCNode Title="GetMenuItems Method " Url="html/9b671bb8-d999-6d93-de24-4f24f6c819fb.htm" />
+        <HelpTOCNode Title="GetOrderList Method " Url="html/1a7a5fc8-08b5-fa04-dd00-d1a296341e4e.htm" />
+        <HelpTOCNode Title="GetOrderNum Method " Url="html/bf13bec5-e069-3abc-a4dc-5ca9984d8f3c.htm" />
+        <HelpTOCNode Title="GetTables Method " Url="html/31af99f2-1c59-04a0-1aed-443d302920fa.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/24ee407f-62f2-2d9b-89b4-916a9d9da16d.htm" />
+        <HelpTOCNode Title="UpdateTable Method " Url="html/669cb6cd-dddf-84d9-ed3a-4e5947aca073.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="336fc5ff-9260-48b0-92b7-c75fb6b69a5f" Title="FoodMenuPage Properties" Url="html/deb4bba9-8af8-3c08-d6af-fa3e4be9eca9.htm">
+        <HelpTOCNode Title="DefaultViewModel Property " Url="html/cd00d80c-c6ca-5ba7-948f-356414cfc094.htm" />
+        <HelpTOCNode Title="NavigationHelper Property " Url="html/6d24d4ce-0902-9899-18bf-216868383a74.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FoodMenuPage Events" Url="html/5127c0d8-8963-0b46-f968-f7784caa09e2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="799973a6-7e8c-49f6-acf7-cf5163390612" Title="OrderProgress Class" Url="html/f0e06c19-42a0-f00f-83f4-a16fd29c19f8.htm">
+      <HelpTOCNode Title="OrderProgress Constructor " Url="html/3a344102-6152-a22d-20db-01d2e5dce8be.htm" />
+      <HelpTOCNode Id="9fe0e063-9ce7-4b89-b70a-f3cb66966945" Title="OrderProgress Fields" Url="html/f0adf14f-ca3e-ce00-4e32-d6ffa146f897.htm">
+        <HelpTOCNode Title="totalFinishedOrders Field" Url="html/aa223f35-2950-8595-6652-d2c33393f501.htm" />
+        <HelpTOCNode Title="totalOrders Field" Url="html/b3f7b146-c6eb-4f2b-0777-3fd6281e40ea.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="212eb1f6-fe6f-42c7-80e3-f5bb7dcd0d92" Title="OrderProgress Methods" Url="html/38374667-9edd-feb2-7026-875f3262eef7.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/d3a3bf1a-88a7-caa6-55fa-def06ffe86d3.htm" />
+        <HelpTOCNode Title="GetOrderList Method " Url="html/a0b45a29-0472-0cfb-133d-852a463a0c4c.htm" />
+        <HelpTOCNode Title="GetOrders Method " Url="html/b67dca9c-849d-74d1-d509-e22ea8c5e355.htm" />
+        <HelpTOCNode Title="GetProgress Method " Url="html/97a60689-fe90-ecfe-a798-1bbd8ca073ad.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/6b0dadaa-7286-064c-2aa8-99c8a722681e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d78a638c-d3d8-4e50-a89f-a80a17510a90" Title="OrderProgress Properties" Url="html/66df88cf-8947-d354-a051-146259045a4e.htm">
+        <HelpTOCNode Title="DefaultViewModel Property " Url="html/01cc77e2-efbb-1810-3d5c-6820b3dcb518.htm" />
+        <HelpTOCNode Title="NavigationHelper Property " Url="html/51bcaca9-d73b-23d7-db4e-b4dceafaa08e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="OrderProgress Events" Url="html/92e3c6b5-3c24-0b70-20fa-687b1a6eaf7e.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fdda7c52-8fa7-4eae-bfae-425947171115" Title="WaiterMain Class" Url="html/99453436-7013-34af-b1f6-2e73d35d2b2a.htm">
+      <HelpTOCNode Title="WaiterMain Constructor " Url="html/229a568e-2952-d743-0479-c223c58d3e8c.htm" />
+      <HelpTOCNode Id="79d40503-c960-43b3-8afa-4d8ce2f7fd73" Title="WaiterMain Methods" Url="html/010c8446-f5d6-a61b-e00f-357ae3bebe7d.htm">
+        <HelpTOCNode Title="Connect Method " Url="html/e56130d2-80d7-2b11-3a5f-45030502dac7.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/81054249-4f54-9cab-c141-4e18f2325d25.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="WaiterMain Properties" Url="html/aacd02ea-857c-7c95-b0cf-d938f61dc504.htm" />
+      <HelpTOCNode Title="WaiterMain Events" Url="html/cb6903ca-ab0b-3599-34dd-15b701b6c2b6.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

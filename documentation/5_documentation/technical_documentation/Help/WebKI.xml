@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method" Url="html/abf3f6f2-0414-1ef9-9262-8a59731ea417.htm" />
+  <HelpKINode Title="Address property" Url="html/996c88d2-06e4-0492-42b4-3bfd88ae403d.htm" />
+  <HelpKINode Title="App class">
+    <HelpKINode Title="App Class" Url="html/0000f2a3-3813-a6a3-dd63-db03bd9ba696.htm" />
+    <HelpKINode Title="about App class" Url="html/0000f2a3-3813-a6a3-dd63-db03bd9ba696.htm" />
+    <HelpKINode Title="constructor" Url="html/86ded5d3-47a3-58c4-dbc3-309c6678decf.htm" />
+    <HelpKINode Title="events" Url="html/51a2c7b5-13c7-817c-5e89-714dc6e579fa.htm" />
+    <HelpKINode Title="fields" Url="html/5c02681e-a89b-ddaa-9247-ebebe8ff9fb6.htm" />
+    <HelpKINode Title="methods" Url="html/0fa2b14e-6dce-d710-926a-0176f533c7f8.htm" />
+    <HelpKINode Title="properties" Url="html/837515e8-c355-0957-a8bd-2a38a98d59e2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="App.App constructor" Url="html/86ded5d3-47a3-58c4-dbc3-309c6678decf.htm" />
+  <HelpKINode Title="App.Connect method" Url="html/dd2fd274-7c9d-54d2-9137-8ad2738f3aed.htm" />
+  <HelpKINode Title="App.GetXamlType method" Url="html/93f5534c-fd4c-fb23-cb61-79bc43c8f7eb.htm" />
+  <HelpKINode Title="App.GetXmlnsDefinitions method" Url="html/11c2c09f-a9b2-e9f0-74b1-e3725b858c46.htm" />
+  <HelpKINode Title="App.InitializeComponent method" Url="html/cdf25a29-e4e3-8962-9a86-7326ec1eceb3.htm" />
+  <HelpKINode Title="App.MobileService field" Url="html/3d65720b-ef2e-ca8d-1c5f-ed0047b47016.htm" />
+  <HelpKINode Title="appetizersList field" Url="html/46d2a9c0-557c-5b19-1da4-018af495807f.htm" />
+  <HelpKINode Title="BartenderMain class">
+    <HelpKINode Title="BartenderMain Class" Url="html/98b51e6c-05f5-903f-8590-d107a3e18066.htm" />
+    <HelpKINode Title="about BartenderMain class" Url="html/98b51e6c-05f5-903f-8590-d107a3e18066.htm" />
+    <HelpKINode Title="constructor" Url="html/7205f55b-0751-c137-1a0b-2b9a72162b87.htm" />
+    <HelpKINode Title="events" Url="html/e1fb90b0-2b49-ee2e-0390-27affd0dec97.htm" />
+    <HelpKINode Title="methods" Url="html/c24a1e02-d1bf-97d9-9b2b-bae47525b93b.htm" />
+    <HelpKINode Title="properties" Url="html/07e4dc9d-2f65-b205-d3d1-f8651cc0fa93.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BartenderMain.BartenderMain constructor" Url="html/7205f55b-0751-c137-1a0b-2b9a72162b87.htm" />
+  <HelpKINode Title="BartenderMain.Connect method" Url="html/bd053961-8953-d8b5-6884-58203cc036a1.htm" />
+  <HelpKINode Title="BartenderMain.InitializeComponent method" Url="html/fe9b6729-a6c1-2273-9488-5d3a3a3b3666.htm" />
+  <HelpKINode Title="BillTotal field" Url="html/fedc860c-b7e9-abdc-8230-bbcca99d07a4.htm" />
+  <HelpKINode Title="Birthday property" Url="html/fc35eeb4-a52d-68b2-0df9-a2e762f5c4d7.htm" />
+  <HelpKINode Title="BusBoyMain class">
+    <HelpKINode Title="BusBoyMain Class" Url="html/30bc3de4-efac-b099-8f41-fbe4ffd4ad0b.htm" />
+    <HelpKINode Title="about BusBoyMain class" Url="html/30bc3de4-efac-b099-8f41-fbe4ffd4ad0b.htm" />
+    <HelpKINode Title="constructor" Url="html/9bffac42-736d-663a-1c2a-6689406e579a.htm" />
+    <HelpKINode Title="events" Url="html/1eb33d73-e3eb-5434-81c0-c13242746010.htm" />
+    <HelpKINode Title="methods" Url="html/ee686919-824c-a455-1591-842f1f74934a.htm" />
+    <HelpKINode Title="properties" Url="html/51380412-641c-6031-8316-8146caa9eb25.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BusBoyMain.BusBoyMain constructor" Url="html/9bffac42-736d-663a-1c2a-6689406e579a.htm" />
+  <HelpKINode Title="BusBoyMain.Connect method" Url="html/4013c407-ff6a-0f67-ed82-f805463bd685.htm" />
+  <HelpKINode Title="BusBoyMain.InitializeComponent method" Url="html/ff2ddbcf-1d4b-006b-53c8-5a31689ad065.htm" />
+  <HelpKINode Title="BusinessStats class">
+    <HelpKINode Title="BusinessStats Class" Url="html/860c5090-f087-50c9-775f-1c23b360fcbf.htm" />
+    <HelpKINode Title="about BusinessStats class" Url="html/860c5090-f087-50c9-775f-1c23b360fcbf.htm" />
+    <HelpKINode Title="constructor" Url="html/4f53241e-6b33-00b3-19d3-d7a2ec8ef16d.htm" />
+    <HelpKINode Title="events" Url="html/a4b97d3c-3ae6-4f5f-e5b8-b61fd2a640e5.htm" />
+    <HelpKINode Title="methods" Url="html/4cc7456b-8d5d-8b1e-a8e4-d4e64ff7128e.htm" />
+    <HelpKINode Title="properties" Url="html/bfc5a0f9-4176-ca9d-e569-0839a0b45f28.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BusinessStats.BusinessStats constructor" Url="html/4f53241e-6b33-00b3-19d3-d7a2ec8ef16d.htm" />
+  <HelpKINode Title="BusinessStats.Connect method" Url="html/c89db055-7c18-1344-6c15-8173d8e0f275.htm" />
+  <HelpKINode Title="BusinessStats.DefaultViewModel property" Url="html/e62f3167-33ae-7d06-16bd-9e16df5d69cc.htm" />
+  <HelpKINode Title="BusinessStats.InitializeComponent method" Url="html/f49a3d3a-03fb-9724-b4bd-c40c5c9e2688.htm" />
+  <HelpKINode Title="BusinessStats.NavigationHelper property" Url="html/1ef107d6-8eab-c475-f6b9-8bb359c2e4a4.htm" />
+  <HelpKINode Title="CanExecute method" Url="html/53f20739-761b-1910-b4cb-0bc53e34a216.htm" />
+  <HelpKINode Title="CanExecuteChanged event" Url="html/507d2fb8-9d84-dd20-96db-ce0d835c51c9.htm" />
+  <HelpKINode Title="CanGoBack method" Url="html/f9354240-c8fc-17f5-0451-c5ceaee5d82e.htm" />
+  <HelpKINode Title="CanGoForward method" Url="html/fdd64157-99a9-5d9d-ce0f-dd3f5554f69f.htm" />
+  <HelpKINode Title="Category property" Url="html/b16d34ac-dd3b-4edb-c105-eb7a96e1dd91.htm" />
+  <HelpKINode Title="ChefMain class">
+    <HelpKINode Title="ChefMain Class" Url="html/0d11c7d7-ab0c-14b6-27db-1d4c697af9a4.htm" />
+    <HelpKINode Title="about ChefMain class" Url="html/0d11c7d7-ab0c-14b6-27db-1d4c697af9a4.htm" />
+    <HelpKINode Title="constructor" Url="html/9a47abce-07cc-62f8-dafd-667f2113aea9.htm" />
+    <HelpKINode Title="events" Url="html/232a5503-f734-7dec-bf14-6dd8661b34e4.htm" />
+    <HelpKINode Title="methods" Url="html/4aa7ebc9-7db4-24ef-8b69-68d93ecf1643.htm" />
+    <HelpKINode Title="properties" Url="html/e7298334-d8ba-75ad-248d-5c19af318259.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChefMain.ChefMain constructor" Url="html/9a47abce-07cc-62f8-dafd-667f2113aea9.htm" />
+  <HelpKINode Title="ChefMain.Connect method" Url="html/2589ff59-d908-74ff-b7c5-afa7504bc962.htm" />
+  <HelpKINode Title="ChefMain.InitializeComponent method" Url="html/bad2febf-a7e3-27a6-734b-c4c3b9aed92b.htm" />
+  <HelpKINode Title="Clear method" Url="html/f2afd9cd-f7d5-362e-6e0a-38c24899289f.htm" />
+  <HelpKINode Title="Complete property" Url="html/3927792b-ffd0-c79b-75e1-4aad203610e9.htm" />
+  <HelpKINode Title="Completed property">
+    <HelpKINode Title="FoodTable.Completed Property " Url="html/35bce6fb-9a6d-4e29-cbc4-db099aaad46a.htm" />
+    <HelpKINode Title="Order.Completed Property " Url="html/dda1fe67-cc2a-7345-ee7b-97a70fe45c83.htm" />
+    <HelpKINode Title="OrderList.Completed Property " Url="html/78fb5533-9d3a-08b8-2e10-e3021261c3fd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Connect method">
+    <HelpKINode Title="App.Connect Method " Url="html/dd2fd274-7c9d-54d2-9137-8ad2738f3aed.htm" />
+    <HelpKINode Title="BartenderMain.Connect Method " Url="html/bd053961-8953-d8b5-6884-58203cc036a1.htm" />
+    <HelpKINode Title="BusBoyMain.Connect Method " Url="html/4013c407-ff6a-0f67-ed82-f805463bd685.htm" />
+    <HelpKINode Title="BusinessStats.Connect Method " Url="html/c89db055-7c18-1344-6c15-8173d8e0f275.htm" />
+    <HelpKINode Title="ChefMain.Connect Method " Url="html/2589ff59-d908-74ff-b7c5-afa7504bc962.htm" />
+    <HelpKINode Title="EmployeeInfo.Connect Method " Url="html/d8d3dee6-4bc6-fe4c-763e-7841d048551c.htm" />
+    <HelpKINode Title="FloorPlan.Connect Method " Url="html/8aafff99-ecbb-bf3b-b5e3-14ec044de995.htm" />
+    <HelpKINode Title="FoodMenuPage.Connect Method " Url="html/21352247-3a9b-38ab-b291-d5b6313301b7.htm" />
+    <HelpKINode Title="FoodQueue.Connect Method " Url="html/186dd2c7-72e7-4386-ac35-7073ae0ce891.htm" />
+    <HelpKINode Title="MainPage.Connect Method " Url="html/42069af4-1aed-ed77-fd16-733a1e51461c.htm" />
+    <HelpKINode Title="ManageEmployees.Connect Method " Url="html/08395be8-6e5f-49fa-9078-71ebeacf95ff.htm" />
+    <HelpKINode Title="ManagerMain.Connect Method " Url="html/60c83e88-922d-fa7b-90cd-5b50971ffad0.htm" />
+    <HelpKINode Title="OrderProgress.Connect Method " Url="html/d3a3bf1a-88a7-caa6-55fa-def06ffe86d3.htm" />
+    <HelpKINode Title="WaiterMain.Connect Method " Url="html/e56130d2-80d7-2b11-3a5f-45030502dac7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Contains method" Url="html/4a7d70fe-f931-d722-494f-b57884781c9e.htm" />
+  <HelpKINode Title="ContainsKey method" Url="html/7bd95a63-a49f-1b91-ed9b-9c97e21abc10.htm" />
+  <HelpKINode Title="CopyTo method" Url="html/92b7c5d6-8f45-044b-adf2-a89608a6dc66.htm" />
+  <HelpKINode Title="Cost property" Url="html/c8777143-2e80-9a38-cc93-7f4fb3cb2e84.htm" />
+  <HelpKINode Title="Count property" Url="html/1efe978e-08d8-cd3f-717b-fafa54854c9c.htm" />
+  <HelpKINode Title="DefaultViewModel property">
+    <HelpKINode Title="BusinessStats.DefaultViewModel Property " Url="html/e62f3167-33ae-7d06-16bd-9e16df5d69cc.htm" />
+    <HelpKINode Title="EmployeeInfo.DefaultViewModel Property " Url="html/4fa569e9-be66-48d9-3457-111b0fe68248.htm" />
+    <HelpKINode Title="FloorPlan.DefaultViewModel Property " Url="html/20212c19-83ae-44a3-e952-28f793f1932e.htm" />
+    <HelpKINode Title="FoodMenuPage.DefaultViewModel Property " Url="html/cd00d80c-c6ca-5ba7-948f-356414cfc094.htm" />
+    <HelpKINode Title="FoodQueue.DefaultViewModel Property " Url="html/513e8ec5-7174-6ec5-d6da-57e990ea227f.htm" />
+    <HelpKINode Title="ManageEmployees.DefaultViewModel Property " Url="html/5686059a-2b29-2f59-e51a-e3cb95c21b9f.htm" />
+    <HelpKINode Title="OrderProgress.DefaultViewModel Property " Url="html/01cc77e2-efbb-1810-3d5c-6820b3dcb518.htm" />
+  </HelpKINode>
+  <HelpKINode Title="dessertsList field" Url="html/909dba05-4155-85ed-ba9f-5d9923186ff9.htm" />
+  <HelpKINode Title="drinksList field" Url="html/95ab94f0-2093-983c-6d53-cfe09281d722.htm" />
+  <HelpKINode Title="Employee class">
+    <HelpKINode Title="Employee Class" Url="html/7b39b562-2730-8f74-3a06-66779161a36f.htm" />
+    <HelpKINode Title="about Employee class" Url="html/7b39b562-2730-8f74-3a06-66779161a36f.htm" />
+    <HelpKINode Title="constructor" Url="html/eb110825-e90f-d8ea-e52a-e7e2b5628375.htm" />
+    <HelpKINode Title="methods" Url="html/0aa8a74e-46d0-946e-84fc-6809bf4c82da.htm" />
+    <HelpKINode Title="properties" Url="html/cc422be6-bfad-0c7e-7e53-45125029f999.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Employee.Address property" Url="html/996c88d2-06e4-0492-42b4-3bfd88ae403d.htm" />
+  <HelpKINode Title="Employee.Birthday property" Url="html/fc35eeb4-a52d-68b2-0df9-a2e762f5c4d7.htm" />
+  <HelpKINode Title="Employee.Employee constructor" Url="html/eb110825-e90f-d8ea-e52a-e7e2b5628375.htm" />
+  <HelpKINode Title="Employee.Gender property" Url="html/bf18e2c7-dcf5-65c2-765b-e2d1636c6e84.htm" />
+  <HelpKINode Title="Employee.Id property" Url="html/f90b4642-0f0b-4ff9-febb-8844cf5484e5.htm" />
+  <HelpKINode Title="Employee.Name property" Url="html/036432dc-12cd-46de-6dc0-5c7baee3dbc5.htm" />
+  <HelpKINode Title="Employee.Password property" Url="html/50bcd71d-085f-d393-9b54-659dfad8a6fa.htm" />
+  <HelpKINode Title="Employee.PhoneNumber property" Url="html/f079fb52-4990-57e5-8b1c-9bfa279c8613.htm" />
+  <HelpKINode Title="Employee.Position property" Url="html/17679f2c-f703-b9b2-40f3-89579f3d989d.htm" />
+  <HelpKINode Title="Employee.Salary property" Url="html/cb328567-213d-4de0-e386-ec7ded2daed3.htm" />
+  <HelpKINode Title="Employee.Username property" Url="html/8532a503-337c-df62-fccd-80b1564e96c9.htm" />
+  <HelpKINode Title="employeeIndex field" Url="html/cf005000-7027-3b0f-daca-72dad047ed6c.htm" />
+  <HelpKINode Title="employeeIndexString field" Url="html/8ba0605c-7c1d-5647-9035-39838e928687.htm" />
+  <HelpKINode Title="EmployeeInfo class">
+    <HelpKINode Title="EmployeeInfo Class" Url="html/7d95dfe2-4ba1-c36a-4ebc-53a73dce531a.htm" />
+    <HelpKINode Title="about EmployeeInfo class" Url="html/7d95dfe2-4ba1-c36a-4ebc-53a73dce531a.htm" />
+    <HelpKINode Title="constructor" Url="html/865d313e-9478-41df-ed67-d7a907f52779.htm" />
+    <HelpKINode Title="events" Url="html/d24f4b56-837d-db2d-fde4-ba8317d420a9.htm" />
+    <HelpKINode Title="fields" Url="html/30a7ceac-bee3-e6fb-d511-a789c41127a1.htm" />
+    <HelpKINode Title="methods" Url="html/b8b88550-eb33-dfd4-59df-ad776e60ebcb.htm" />
+    <HelpKINode Title="properties" Url="html/cd3e8a59-5669-4fe3-5354-efe951ffda68.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmployeeInfo.Connect method" Url="html/d8d3dee6-4bc6-fe4c-763e-7841d048551c.htm" />
+  <HelpKINode Title="EmployeeInfo.DefaultViewModel property" Url="html/4fa569e9-be66-48d9-3457-111b0fe68248.htm" />
+  <HelpKINode Title="EmployeeInfo.employeeIndex field" Url="html/cf005000-7027-3b0f-daca-72dad047ed6c.htm" />
+  <HelpKINode Title="EmployeeInfo.employeeIndexString field" Url="html/8ba0605c-7c1d-5647-9035-39838e928687.htm" />
+  <HelpKINode Title="EmployeeInfo.EmployeeInfo constructor" Url="html/865d313e-9478-41df-ed67-d7a907f52779.htm" />
+  <HelpKINode Title="EmployeeInfo.GetEmployees method" Url="html/125db9e3-3724-a23f-9bac-f750ea1f0298.htm" />
+  <HelpKINode Title="EmployeeInfo.InitializeComponent method" Url="html/86cc94d0-f249-0134-717e-a31b897a51ff.htm" />
+  <HelpKINode Title="EmployeeInfo.NavigationHelper property" Url="html/f7c3955b-50fa-e05f-2668-15cf75b2601a.htm" />
+  <HelpKINode Title="entreesList field" Url="html/c3c57026-80e4-d0ec-1308-d231823f2494.htm" />
+  <HelpKINode Title="Execute method" Url="html/2a899719-aa02-870c-3bd5-a082b773a028.htm" />
+  <HelpKINode Title="FloorPlan class">
+    <HelpKINode Title="FloorPlan Class" Url="html/e3f49159-07e6-6947-5ff3-6c630440b752.htm" />
+    <HelpKINode Title="about FloorPlan class" Url="html/e3f49159-07e6-6947-5ff3-6c630440b752.htm" />
+    <HelpKINode Title="constructor" Url="html/8d573768-79a3-97c3-9c04-7d1708dcfa56.htm" />
+    <HelpKINode Title="events" Url="html/0c10a3bb-cea4-dae9-3623-25b13b23f6c0.htm" />
+    <HelpKINode Title="fields" Url="html/6bf434ab-36e2-ed22-faf5-df2448cfacc2.htm" />
+    <HelpKINode Title="methods" Url="html/75c1c02f-b972-ecdc-64c7-1f2018f34460.htm" />
+    <HelpKINode Title="properties" Url="html/f6d6dc31-f04b-0bf1-4f1a-1bccc2301e2b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FloorPlan.Connect method" Url="html/8aafff99-ecbb-bf3b-b5e3-14ec044de995.htm" />
+  <HelpKINode Title="FloorPlan.DefaultViewModel property" Url="html/20212c19-83ae-44a3-e952-28f793f1932e.htm" />
+  <HelpKINode Title="FloorPlan.FloorPlan constructor" Url="html/8d573768-79a3-97c3-9c04-7d1708dcfa56.htm" />
+  <HelpKINode Title="FloorPlan.GetColor method" Url="html/cedab90f-f043-af1c-86b7-231ec9dd04fc.htm" />
+  <HelpKINode Title="FloorPlan.GetTables method" Url="html/20550e4b-6f0f-7262-9484-5746e77d451e.htm" />
+  <HelpKINode Title="FloorPlan.InitializeComponent method" Url="html/d884b42d-2988-650a-6611-39e3cdf42ea2.htm" />
+  <HelpKINode Title="FloorPlan.isBusboy field" Url="html/ee372fb6-bb7f-20fd-c7a6-bce8f24a6f63.htm" />
+  <HelpKINode Title="FloorPlan.NavigationHelper property" Url="html/10778a31-24d0-7c13-569d-03b0b6b910ea.htm" />
+  <HelpKINode Title="FloorPlan.UpdateTable method" Url="html/6d648ab1-c3b0-9253-2b9d-9f159771c7b3.htm" />
+  <HelpKINode Title="foodez namespace" Url="html/79afaec6-f93d-ee6a-59f8-ef532a9fa71c.htm" />
+  <HelpKINode Title="foodez.App class" Url="html/0000f2a3-3813-a6a3-dd63-db03bd9ba696.htm" />
+  <HelpKINode Title="foodez.BartenderPages namespace" Url="html/2d686a82-946a-2d52-4db9-de152339cdc8.htm" />
+  <HelpKINode Title="foodez.BartenderPages.BartenderMain class" Url="html/98b51e6c-05f5-903f-8590-d107a3e18066.htm" />
+  <HelpKINode Title="foodez.BusBoyPages namespace" Url="html/94f3470b-dc41-2189-f88d-a803cb2ca16c.htm" />
+  <HelpKINode Title="foodez.BusBoyPages.BusBoyMain class" Url="html/30bc3de4-efac-b099-8f41-fbe4ffd4ad0b.htm" />
+  <HelpKINode Title="foodez.ChefPages namespace" Url="html/7ae11025-fc44-5706-664b-f7f3162af860.htm" />
+  <HelpKINode Title="foodez.ChefPages.ChefMain class" Url="html/0d11c7d7-ab0c-14b6-27db-1d4c697af9a4.htm" />
+  <HelpKINode Title="foodez.ChefPages.FoodQueue class" Url="html/e8dbf7ef-6d1c-35de-1596-9fc553e60b84.htm" />
+  <HelpKINode Title="foodez.Classes namespace" Url="html/b50b8d34-f30b-433c-3e9e-131d0872a111.htm" />
+  <HelpKINode Title="foodez.Classes.FoodProgress class" Url="html/ce62262c-552c-7808-6e80-a89ea8d138d3.htm" />
+  <HelpKINode Title="foodez.Classes.FoodTable class" Url="html/716cb2c3-83f2-43d8-7053-4483c188c457.htm" />
+  <HelpKINode Title="foodez.Common namespace" Url="html/3592c919-f771-3768-0927-2d2bb5eb6db9.htm" />
+  <HelpKINode Title="foodez.Common.JumpList namespace" Url="html/3592d1ee-c22b-6b2a-5c43-f3f21679ca3b.htm" />
+  <HelpKINode Title="foodez.Common.JumpList.JumpListGroup(Of T) class" Url="html/8d96a7d3-31b8-9ddd-7b7e-b590034a5d8f.htm" />
+  <HelpKINode Title="foodez.Common.JumpList.JumpListGroup&lt;T&gt; class" Url="html/8d96a7d3-31b8-9ddd-7b7e-b590034a5d8f.htm" />
+  <HelpKINode Title="foodez.Common.JumpList.JumpListHelper class" Url="html/56fded28-e5a5-2b06-efa3-8b2a8cab0d92.htm" />
+  <HelpKINode Title="foodez.Common.LoadStateEventArgs class" Url="html/a19dae58-a53c-2c31-56b9-bb86688abf51.htm" />
+  <HelpKINode Title="foodez.Common.LoadStateEventHandler delegate" Url="html/bf2c0fb9-e543-3768-7c30-af4a31c602c9.htm" />
+  <HelpKINode Title="foodez.Common.NavigationHelper class" Url="html/a5b7b57e-3990-1d58-f915-5f32d437da32.htm" />
+  <HelpKINode Title="foodez.Common.ObservableDictionary class" Url="html/6049b56c-1775-c4c7-4c8f-b8cce084d545.htm" />
+  <HelpKINode Title="foodez.Common.RelayCommand class" Url="html/8005a0e5-99be-123e-ca0a-fe382be5045b.htm" />
+  <HelpKINode Title="foodez.Common.SaveStateEventArgs class" Url="html/a4b17f9a-6d43-0194-1179-8404bb239258.htm" />
+  <HelpKINode Title="foodez.Common.SaveStateEventHandler delegate" Url="html/5302a259-b79d-7e68-64b4-3d724d48cdeb.htm" />
+  <HelpKINode Title="foodez.Common.SuspensionManagerException class" Url="html/4af64d97-a148-3874-ac10-9db48718a223.htm" />
+  <HelpKINode Title="foodez.Employee class" Url="html/7b39b562-2730-8f74-3a06-66779161a36f.htm" />
+  <HelpKINode Title="foodez.FoodQueue class" Url="html/a150ad97-3042-5f93-5abe-bd66a6f4fe79.htm" />
+  <HelpKINode Title="foodez.MainPage class" Url="html/30dec2dd-8466-571d-f97c-32709b6499a1.htm" />
+  <HelpKINode Title="foodez.ManagerPages namespace" Url="html/2a7f2228-5f83-97c6-91e0-9f44977f3ece.htm" />
+  <HelpKINode Title="foodez.ManagerPages.BusinessStats class" Url="html/860c5090-f087-50c9-775f-1c23b360fcbf.htm" />
+  <HelpKINode Title="foodez.ManagerPages.EmployeeInfo class" Url="html/7d95dfe2-4ba1-c36a-4ebc-53a73dce531a.htm" />
+  <HelpKINode Title="foodez.ManagerPages.ManageEmployees class" Url="html/d798fc0d-3db2-5b85-11f9-dd09409dad93.htm" />
+  <HelpKINode Title="foodez.ManagerPages.ManagerMain class" Url="html/ce29b33e-dfba-7adf-1d8e-e93860a25e6b.htm" />
+  <HelpKINode Title="foodez.MenuItem class" Url="html/d3e66b5a-f92f-7b8e-e196-69c8edf983c4.htm" />
+  <HelpKINode Title="foodez.Order class" Url="html/11eaf1a2-f465-b7ec-e89a-ec54ea027955.htm" />
+  <HelpKINode Title="foodez.OrderList class" Url="html/103d636e-05d4-eca6-e76d-9b4d115b707e.htm" />
+  <HelpKINode Title="foodez.Program class" Url="html/5bd16b1a-7347-524b-11f2-5fbb50191d2a.htm" />
+  <HelpKINode Title="foodez.SharedPages namespace" Url="html/1bbcfcaa-76c2-1afa-e9cb-e014ee42b61b.htm" />
+  <HelpKINode Title="foodez.SharedPages.FloorPlan class" Url="html/e3f49159-07e6-6947-5ff3-6c630440b752.htm" />
+  <HelpKINode Title="foodez.Table class" Url="html/502481f3-d3d9-6048-0fca-9bfdd5f7c7f8.htm" />
+  <HelpKINode Title="foodez.TodoItem class" Url="html/c6c600b8-6a04-12aa-a22b-e53138478f2a.htm" />
+  <HelpKINode Title="foodez.WaiterPages namespace" Url="html/79262cde-ee37-a0d3-cc8b-2240a0abb21c.htm" />
+  <HelpKINode Title="foodez.WaiterPages.FoodMenuPage class" Url="html/6092c784-0a63-33a1-6561-3c08cc9cfc7b.htm" />
+  <HelpKINode Title="foodez.WaiterPages.OrderProgress class" Url="html/f0e06c19-42a0-f00f-83f4-a16fd29c19f8.htm" />
+  <HelpKINode Title="foodez.WaiterPages.WaiterMain class" Url="html/99453436-7013-34af-b1f6-2e73d35d2b2a.htm" />
+  <HelpKINode Title="FoodMenuPage class">
+    <HelpKINode Title="FoodMenuPage Class" Url="html/6092c784-0a63-33a1-6561-3c08cc9cfc7b.htm" />
+    <HelpKINode Title="about FoodMenuPage class" Url="html/6092c784-0a63-33a1-6561-3c08cc9cfc7b.htm" />
+    <HelpKINode Title="constructor" Url="html/bb9f1630-5854-27b4-72a2-bdc21b0292c8.htm" />
+    <HelpKINode Title="events" Url="html/5127c0d8-8963-0b46-f968-f7784caa09e2.htm" />
+    <HelpKINode Title="fields" Url="html/5ebaab31-d93c-ebf1-bf7d-0bf05d99dceb.htm" />
+    <HelpKINode Title="methods" Url="html/8ea53607-1717-0808-bf99-fb6c382615f4.htm" />
+    <HelpKINode Title="properties" Url="html/deb4bba9-8af8-3c08-d6af-fa3e4be9eca9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FoodMenuPage.appetizersList field" Url="html/46d2a9c0-557c-5b19-1da4-018af495807f.htm" />
+  <HelpKINode Title="FoodMenuPage.BillTotal field" Url="html/fedc860c-b7e9-abdc-8230-bbcca99d07a4.htm" />
+  <HelpKINode Title="FoodMenuPage.Connect method" Url="html/21352247-3a9b-38ab-b291-d5b6313301b7.htm" />
+  <HelpKINode Title="FoodMenuPage.DefaultViewModel property" Url="html/cd00d80c-c6ca-5ba7-948f-356414cfc094.htm" />
+  <HelpKINode Title="FoodMenuPage.dessertsList field" Url="html/909dba05-4155-85ed-ba9f-5d9923186ff9.htm" />
+  <HelpKINode Title="FoodMenuPage.drinksList field" Url="html/95ab94f0-2093-983c-6d53-cfe09281d722.htm" />
+  <HelpKINode Title="FoodMenuPage.entreesList field" Url="html/c3c57026-80e4-d0ec-1308-d231823f2494.htm" />
+  <HelpKINode Title="FoodMenuPage.FoodMenuPage constructor" Url="html/bb9f1630-5854-27b4-72a2-bdc21b0292c8.htm" />
+  <HelpKINode Title="FoodMenuPage.GetMenuItems method" Url="html/9b671bb8-d999-6d93-de24-4f24f6c819fb.htm" />
+  <HelpKINode Title="FoodMenuPage.GetOrderList method" Url="html/1a7a5fc8-08b5-fa04-dd00-d1a296341e4e.htm" />
+  <HelpKINode Title="FoodMenuPage.GetOrderNum method" Url="html/bf13bec5-e069-3abc-a4dc-5ca9984d8f3c.htm" />
+  <HelpKINode Title="FoodMenuPage.GetTables method" Url="html/31af99f2-1c59-04a0-1aed-443d302920fa.htm" />
+  <HelpKINode Title="FoodMenuPage.InitializeComponent method" Url="html/24ee407f-62f2-2d9b-89b4-916a9d9da16d.htm" />
+  <HelpKINode Title="FoodMenuPage.NavigationHelper property" Url="html/6d24d4ce-0902-9899-18bf-216868383a74.htm" />
+  <HelpKINode Title="FoodMenuPage.newOrder field" Url="html/03d4d7bb-05c7-d7e4-f703-e3cd6b8cdacb.htm" />
+  <HelpKINode Title="FoodMenuPage.newOrderItem field" Url="html/8e64658f-f4cd-e667-3084-f5ff30c3aeed.htm" />
+  <HelpKINode Title="FoodMenuPage.NewOrderList field" Url="html/bb5676a8-2721-7c87-4c3f-51d080383794.htm" />
+  <HelpKINode Title="FoodMenuPage.OrderIndex field" Url="html/9fe2cbb2-dd32-ce19-488e-386d09a20f68.htm" />
+  <HelpKINode Title="FoodMenuPage.OrderItemIndex field" Url="html/2c322ac8-4c13-99cc-cdf4-9dddecb91ba1.htm" />
+  <HelpKINode Title="FoodMenuPage.tableIndex field" Url="html/c49395fa-fe8d-d3cb-c811-32661d3a3dfc.htm" />
+  <HelpKINode Title="FoodMenuPage.tempOrderlist field" Url="html/5e8a53bb-9f7b-4a82-02aa-897268189d01.htm" />
+  <HelpKINode Title="FoodMenuPage.UpdateTable method" Url="html/669cb6cd-dddf-84d9-ed3a-4e5947aca073.htm" />
+  <HelpKINode Title="FoodProgress class">
+    <HelpKINode Title="FoodProgress Class" Url="html/ce62262c-552c-7808-6e80-a89ea8d138d3.htm" />
+    <HelpKINode Title="about FoodProgress class" Url="html/ce62262c-552c-7808-6e80-a89ea8d138d3.htm" />
+    <HelpKINode Title="constructor" Url="html/3805b743-8251-d54f-3e6d-65f0b91c0568.htm" />
+    <HelpKINode Title="methods" Url="html/942afe90-04a4-b34b-0194-57ea6ccbe8a7.htm" />
+    <HelpKINode Title="properties" Url="html/0381cd79-4609-bcd6-f770-2dd2b497221c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FoodProgress.FoodProgress constructor" Url="html/3805b743-8251-d54f-3e6d-65f0b91c0568.htm" />
+  <HelpKINode Title="FoodProgress.Name property" Url="html/2b6f0150-14ec-832d-06fb-8536abb2d306.htm" />
+  <HelpKINode Title="FoodProgress.Progress property" Url="html/2210ed41-26c8-4128-feff-c45bb1bcad5a.htm" />
+  <HelpKINode Title="FoodQueue class">
+    <HelpKINode Title="FoodQueue Class" Url="html/e8dbf7ef-6d1c-35de-1596-9fc553e60b84.htm" />
+    <HelpKINode Title="FoodQueue Class" Url="html/a150ad97-3042-5f93-5abe-bd66a6f4fe79.htm" />
+    <HelpKINode Title="about FoodQueue class" Url="html/e8dbf7ef-6d1c-35de-1596-9fc553e60b84.htm" />
+    <HelpKINode Title="about FoodQueue class" Url="html/a150ad97-3042-5f93-5abe-bd66a6f4fe79.htm" />
+    <HelpKINode Title="constructor" Url="html/4003af40-878f-41ed-86fd-2070bd8b7206.htm" />
+    <HelpKINode Title="constructor" Url="html/df27ac97-01aa-e741-11ac-ec6db34c5548.htm" />
+    <HelpKINode Title="events" Url="html/6426018f-ef8f-4fa9-fe3c-2cfa0cb35b92.htm" />
+    <HelpKINode Title="methods" Url="html/bee8e31c-75fc-c840-b98b-6b19a8d01fd2.htm" />
+    <HelpKINode Title="methods" Url="html/35035e67-9705-7497-0132-f8ca6d48f66c.htm" />
+    <HelpKINode Title="properties" Url="html/a5fee01f-6442-2181-b85c-8e0be65a971a.htm" />
+    <HelpKINode Title="properties" Url="html/274d41a1-cce4-9267-3782-ba8369c6f7da.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FoodQueue.Connect method" Url="html/186dd2c7-72e7-4386-ac35-7073ae0ce891.htm" />
+  <HelpKINode Title="FoodQueue.DefaultViewModel property" Url="html/513e8ec5-7174-6ec5-d6da-57e990ea227f.htm" />
+  <HelpKINode Title="FoodQueue.FoodQueue constructor">
+    <HelpKINode Title="FoodQueue Constructor " Url="html/df27ac97-01aa-e741-11ac-ec6db34c5548.htm" />
+    <HelpKINode Title="FoodQueue Constructor " Url="html/4003af40-878f-41ed-86fd-2070bd8b7206.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FoodQueue.GetFoodTable method" Url="html/bdee5a0b-29ad-2c24-8879-037b874b0fc9.htm" />
+  <HelpKINode Title="FoodQueue.GetOrderList method" Url="html/1b935a58-ca72-5f15-536c-e7d429610875.htm" />
+  <HelpKINode Title="FoodQueue.GetOrders method" Url="html/b29ce3d8-73d5-f8f1-d735-3467c6b07cae.htm" />
+  <HelpKINode Title="FoodQueue.Id property" Url="html/aa6a5055-e804-7685-7729-0d88146d59ee.htm" />
+  <HelpKINode Title="FoodQueue.InitializeComponent method" Url="html/a6d179ce-e89b-3588-d649-6effdbac1b22.htm" />
+  <HelpKINode Title="FoodQueue.Menuitem property" Url="html/ab7d144d-9806-99f5-f2a4-f91a802b0627.htm" />
+  <HelpKINode Title="FoodQueue.NavigationHelper property" Url="html/a987fad3-3b2f-4782-78bd-f397fe188657.htm" />
+  <HelpKINode Title="FoodQueue.Orderid property" Url="html/9fa8ce11-d90f-c3de-1d60-f635a288bce5.htm" />
+  <HelpKINode Title="FoodQueue.Progress property" Url="html/2e75f784-ee78-4c1d-e2cc-105b513a3929.htm" />
+  <HelpKINode Title="FoodTable class">
+    <HelpKINode Title="FoodTable Class" Url="html/716cb2c3-83f2-43d8-7053-4483c188c457.htm" />
+    <HelpKINode Title="about FoodTable class" Url="html/716cb2c3-83f2-43d8-7053-4483c188c457.htm" />
+    <HelpKINode Title="constructor" Url="html/fba0376a-1032-803d-db0a-634b4de8bc34.htm" />
+    <HelpKINode Title="methods" Url="html/70c194a0-adf3-32d7-46c8-a7294f42e42b.htm" />
+    <HelpKINode Title="properties" Url="html/5536d68b-bc74-7eef-5644-976f8de0475f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FoodTable.Completed property" Url="html/35bce6fb-9a6d-4e29-cbc4-db099aaad46a.htm" />
+  <HelpKINode Title="FoodTable.FoodTable constructor" Url="html/fba0376a-1032-803d-db0a-634b4de8bc34.htm" />
+  <HelpKINode Title="FoodTable.Name property" Url="html/a9008adf-6b82-f547-18de-a559379d97b0.htm" />
+  <HelpKINode Title="FoodTable.TableName property" Url="html/bbccb80c-b254-730f-a430-99ae4d7f47b2.htm" />
+  <HelpKINode Title="Gender property" Url="html/bf18e2c7-dcf5-65c2-765b-e2d1636c6e84.htm" />
+  <HelpKINode Title="GetColor method" Url="html/cedab90f-f043-af1c-86b7-231ec9dd04fc.htm" />
+  <HelpKINode Title="GetEmployees method">
+    <HelpKINode Title="EmployeeInfo.GetEmployees Method " Url="html/125db9e3-3724-a23f-9bac-f750ea1f0298.htm" />
+    <HelpKINode Title="ManageEmployees.GetEmployees Method " Url="html/03d89bc3-b4aa-14a8-7c96-85864eae5461.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetEnumerator method">
+    <HelpKINode Title="JumpListGroup(T).GetEnumerator Method " Url="html/0e6abf37-077f-d858-86b2-971b02a3ef16.htm" />
+    <HelpKINode Title="ObservableDictionary.GetEnumerator Method " Url="html/b1e7cb4c-87a5-28b3-262a-fa80b99ae10d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetFoodTable method" Url="html/bdee5a0b-29ad-2c24-8879-037b874b0fc9.htm" />
+  <HelpKINode Title="GetMenuItems method" Url="html/9b671bb8-d999-6d93-de24-4f24f6c819fb.htm" />
+  <HelpKINode Title="GetOrderList method">
+    <HelpKINode Title="FoodMenuPage.GetOrderList Method " Url="html/1a7a5fc8-08b5-fa04-dd00-d1a296341e4e.htm" />
+    <HelpKINode Title="FoodQueue.GetOrderList Method " Url="html/1b935a58-ca72-5f15-536c-e7d429610875.htm" />
+    <HelpKINode Title="OrderProgress.GetOrderList Method " Url="html/a0b45a29-0472-0cfb-133d-852a463a0c4c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetOrderNum method" Url="html/bf13bec5-e069-3abc-a4dc-5ca9984d8f3c.htm" />
+  <HelpKINode Title="GetOrders method">
+    <HelpKINode Title="FoodQueue.GetOrders Method " Url="html/b29ce3d8-73d5-f8f1-d735-3467c6b07cae.htm" />
+    <HelpKINode Title="OrderProgress.GetOrders Method " Url="html/b67dca9c-849d-74d1-d509-e22ea8c5e355.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetProgress method" Url="html/97a60689-fe90-ecfe-a798-1bbd8ca073ad.htm" />
+  <HelpKINode Title="GetTables method">
+    <HelpKINode Title="FloorPlan.GetTables Method " Url="html/20550e4b-6f0f-7262-9484-5746e77d451e.htm" />
+    <HelpKINode Title="FoodMenuPage.GetTables Method " Url="html/31af99f2-1c59-04a0-1aed-443d302920fa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetXamlType method" Url="html/93f5534c-fd4c-fb23-cb61-79bc43c8f7eb.htm" />
+  <HelpKINode Title="GetXmlnsDefinitions method" Url="html/11c2c09f-a9b2-e9f0-74b1-e3725b858c46.htm" />
+  <HelpKINode Title="GoBack method" Url="html/e3dca6ad-19e1-0175-b0b0-9f97d7c077f0.htm" />
+  <HelpKINode Title="GoBackCommand property" Url="html/f8c785d0-a187-d211-36a4-e3541b368c66.htm" />
+  <HelpKINode Title="GoForward method" Url="html/7bb59b6c-b931-f86c-d774-796a00c42822.htm" />
+  <HelpKINode Title="GoForwardCommand property" Url="html/1e17ee62-4317-194a-789c-9c03d2fe48c8.htm" />
+  <HelpKINode Title="Id property">
+    <HelpKINode Title="Employee.Id Property " Url="html/f90b4642-0f0b-4ff9-febb-8844cf5484e5.htm" />
+    <HelpKINode Title="FoodQueue.Id Property " Url="html/aa6a5055-e804-7685-7729-0d88146d59ee.htm" />
+    <HelpKINode Title="MenuItem.Id Property " Url="html/b0c15194-4927-8105-0e3f-435361d397c5.htm" />
+    <HelpKINode Title="Order.Id Property " Url="html/3be2f894-f004-2d57-29d3-3e1b2c9072c6.htm" />
+    <HelpKINode Title="OrderList.Id Property " Url="html/b3be9a59-d484-88a6-1440-0edebc0858e8.htm" />
+    <HelpKINode Title="Table.Id Property " Url="html/d478977b-af9e-4443-775d-457827ab43af.htm" />
+    <HelpKINode Title="TodoItem.Id Property " Url="html/10301b26-3326-9757-daac-a475b97af70b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InitializeComponent method">
+    <HelpKINode Title="App.InitializeComponent Method " Url="html/cdf25a29-e4e3-8962-9a86-7326ec1eceb3.htm" />
+    <HelpKINode Title="BartenderMain.InitializeComponent Method " Url="html/fe9b6729-a6c1-2273-9488-5d3a3a3b3666.htm" />
+    <HelpKINode Title="BusBoyMain.InitializeComponent Method " Url="html/ff2ddbcf-1d4b-006b-53c8-5a31689ad065.htm" />
+    <HelpKINode Title="BusinessStats.InitializeComponent Method " Url="html/f49a3d3a-03fb-9724-b4bd-c40c5c9e2688.htm" />
+    <HelpKINode Title="ChefMain.InitializeComponent Method " Url="html/bad2febf-a7e3-27a6-734b-c4c3b9aed92b.htm" />
+    <HelpKINode Title="EmployeeInfo.InitializeComponent Method " Url="html/86cc94d0-f249-0134-717e-a31b897a51ff.htm" />
+    <HelpKINode Title="FloorPlan.InitializeComponent Method " Url="html/d884b42d-2988-650a-6611-39e3cdf42ea2.htm" />
+    <HelpKINode Title="FoodMenuPage.InitializeComponent Method " Url="html/24ee407f-62f2-2d9b-89b4-916a9d9da16d.htm" />
+    <HelpKINode Title="FoodQueue.InitializeComponent Method " Url="html/a6d179ce-e89b-3588-d649-6effdbac1b22.htm" />
+    <HelpKINode Title="MainPage.InitializeComponent Method " Url="html/a63cfc17-1342-74e4-39b4-c9829a975b62.htm" />
+    <HelpKINode Title="ManageEmployees.InitializeComponent Method " Url="html/d63f3ffc-212a-fb4a-606d-a3a5bf6355fe.htm" />
+    <HelpKINode Title="ManagerMain.InitializeComponent Method " Url="html/6c44cf61-d84c-fe7b-b0a1-485c58e6be93.htm" />
+    <HelpKINode Title="OrderProgress.InitializeComponent Method " Url="html/6b0dadaa-7286-064c-2aa8-99c8a722681e.htm" />
+    <HelpKINode Title="WaiterMain.InitializeComponent Method " Url="html/81054249-4f54-9cab-c141-4e18f2325d25.htm" />
+  </HelpKINode>
+  <HelpKINode Title="isBusboy field" Url="html/ee372fb6-bb7f-20fd-c7a6-bce8f24a6f63.htm" />
+  <HelpKINode Title="isCredentialOpen field" Url="html/16a15b0f-4b09-64af-ccd2-b92c5419c02b.htm" />
+  <HelpKINode Title="IsReadOnly property" Url="html/7c03dd5c-b4aa-e5c8-d062-33f2e62c3028.htm" />
+  <HelpKINode Title="Item property" Url="html/33324a3a-a0f3-c6f7-e42f-a61dbdf782c1.htm" />
+  <HelpKINode Title="JumpListGroup(Of T) class">
+    <HelpKINode Title="JumpListGroup(T) Class" Url="html/8d96a7d3-31b8-9ddd-7b7e-b590034a5d8f.htm" />
+    <HelpKINode Title="about JumpListGroup(Of T) class" Url="html/8d96a7d3-31b8-9ddd-7b7e-b590034a5d8f.htm" />
+    <HelpKINode Title="constructor" Url="html/cbca8a5a-cb44-e0db-ef20-66f31de29717.htm" />
+    <HelpKINode Title="methods" Url="html/f5886d3d-0482-d937-3c97-30440c580eba.htm" />
+    <HelpKINode Title="properties" Url="html/ae9650eb-5e03-162c-9fce-aeed75e9982d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JumpListGroup(Of T).GetEnumerator method" Url="html/0e6abf37-077f-d858-86b2-971b02a3ef16.htm" />
+  <HelpKINode Title="JumpListGroup(Of T).JumpListGroup constructor" Url="html/cbca8a5a-cb44-e0db-ef20-66f31de29717.htm" />
+  <HelpKINode Title="JumpListGroup(Of T).Key property" Url="html/8dc8ae7e-92de-8fc3-502b-47f2848bacb3.htm" />
+  <HelpKINode Title="JumpListGroup&lt;T&gt; class">
+    <HelpKINode Title="JumpListGroup(T) Class" Url="html/8d96a7d3-31b8-9ddd-7b7e-b590034a5d8f.htm" />
+    <HelpKINode Title="about JumpListGroup&lt;T&gt; class" Url="html/8d96a7d3-31b8-9ddd-7b7e-b590034a5d8f.htm" />
+    <HelpKINode Title="constructor" Url="html/cbca8a5a-cb44-e0db-ef20-66f31de29717.htm" />
+    <HelpKINode Title="methods" Url="html/f5886d3d-0482-d937-3c97-30440c580eba.htm" />
+    <HelpKINode Title="properties" Url="html/ae9650eb-5e03-162c-9fce-aeed75e9982d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JumpListGroup&lt;T&gt;.GetEnumerator method" Url="html/0e6abf37-077f-d858-86b2-971b02a3ef16.htm" />
+  <HelpKINode Title="JumpListGroup&lt;T&gt;.JumpListGroup constructor" Url="html/cbca8a5a-cb44-e0db-ef20-66f31de29717.htm" />
+  <HelpKINode Title="JumpListGroup&lt;T&gt;.Key property" Url="html/8dc8ae7e-92de-8fc3-502b-47f2848bacb3.htm" />
+  <HelpKINode Title="JumpListHelper class">
+    <HelpKINode Title="JumpListHelper Class" Url="html/56fded28-e5a5-2b06-efa3-8b2a8cab0d92.htm" />
+    <HelpKINode Title="about JumpListHelper class" Url="html/56fded28-e5a5-2b06-efa3-8b2a8cab0d92.htm" />
+    <HelpKINode Title="methods" Url="html/01487552-fea2-dded-5f6d-0c6602586a4c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JumpListHelper.ToAlphaGroups(Of TSource) method" Url="html/a1e03f1a-7719-0588-4614-c70f0f55aa12.htm" />
+  <HelpKINode Title="JumpListHelper.ToAlphaGroups&lt;TSource&gt; method" Url="html/a1e03f1a-7719-0588-4614-c70f0f55aa12.htm" />
+  <HelpKINode Title="JumpListHelper.ToGroups(Of TSource, TSort, TGroup) method" Url="html/c91f1023-5aad-685c-3bd7-166adfafbfaf.htm" />
+  <HelpKINode Title="JumpListHelper.ToGroups&lt;TSource, TSort, TGroup&gt; method" Url="html/c91f1023-5aad-685c-3bd7-166adfafbfaf.htm" />
+  <HelpKINode Title="Key property" Url="html/8dc8ae7e-92de-8fc3-502b-47f2848bacb3.htm" />
+  <HelpKINode Title="Keys property" Url="html/237e7df6-5977-f7d8-8ba2-8aac662f98f2.htm" />
+  <HelpKINode Title="LoadState event" Url="html/b3606cc6-29ff-da4a-0139-c108fc1cc9e8.htm" />
+  <HelpKINode Title="LoadStateEventArgs class">
+    <HelpKINode Title="LoadStateEventArgs Class" Url="html/a19dae58-a53c-2c31-56b9-bb86688abf51.htm" />
+    <HelpKINode Title="about LoadStateEventArgs class" Url="html/a19dae58-a53c-2c31-56b9-bb86688abf51.htm" />
+    <HelpKINode Title="constructor" Url="html/4463ad93-56bc-3fd7-e9f2-f53da6efa470.htm" />
+    <HelpKINode Title="methods" Url="html/327c3688-3ad6-0ed3-8f8f-f88131a9e54c.htm" />
+    <HelpKINode Title="properties" Url="html/229c5540-530d-79b6-91fb-0186a4fc3eee.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoadStateEventArgs.LoadStateEventArgs constructor" Url="html/4463ad93-56bc-3fd7-e9f2-f53da6efa470.htm" />
+  <HelpKINode Title="LoadStateEventArgs.NavigationParameter property" Url="html/1b45474f-6a7d-e415-f0da-70e00b86ac85.htm" />
+  <HelpKINode Title="LoadStateEventArgs.PageState property" Url="html/0a5590f4-38a2-69a6-b5a6-021b84367d30.htm" />
+  <HelpKINode Title="LoadStateEventHandler delegate" Url="html/bf2c0fb9-e543-3768-7c30-af4a31c602c9.htm" />
+  <HelpKINode Title="MainPage class">
+    <HelpKINode Title="MainPage Class" Url="html/30dec2dd-8466-571d-f97c-32709b6499a1.htm" />
+    <HelpKINode Title="about MainPage class" Url="html/30dec2dd-8466-571d-f97c-32709b6499a1.htm" />
+    <HelpKINode Title="constructor" Url="html/4f53e009-ac30-71dc-1574-de6a82b48399.htm" />
+    <HelpKINode Title="events" Url="html/cf7bbe38-ec4e-045b-a6c4-5ddaeb0a0c46.htm" />
+    <HelpKINode Title="fields" Url="html/64791653-258d-c55b-1dd8-efe49689bfb9.htm" />
+    <HelpKINode Title="methods" Url="html/986be8b6-b85f-8072-de93-bdf966f95917.htm" />
+    <HelpKINode Title="properties" Url="html/0e6475cb-d401-5c66-afe0-ca37bbdc1631.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainPage.Connect method" Url="html/42069af4-1aed-ed77-fd16-733a1e51461c.htm" />
+  <HelpKINode Title="MainPage.InitializeComponent method" Url="html/a63cfc17-1342-74e4-39b4-c9829a975b62.htm" />
+  <HelpKINode Title="MainPage.isCredentialOpen field" Url="html/16a15b0f-4b09-64af-ccd2-b92c5419c02b.htm" />
+  <HelpKINode Title="MainPage.MainPage constructor" Url="html/4f53e009-ac30-71dc-1574-de6a82b48399.htm" />
+  <HelpKINode Title="ManageEmployees class">
+    <HelpKINode Title="ManageEmployees Class" Url="html/d798fc0d-3db2-5b85-11f9-dd09409dad93.htm" />
+    <HelpKINode Title="about ManageEmployees class" Url="html/d798fc0d-3db2-5b85-11f9-dd09409dad93.htm" />
+    <HelpKINode Title="constructor" Url="html/f3669c4a-030f-ad48-5d9c-9ba6dd44cb3f.htm" />
+    <HelpKINode Title="events" Url="html/4c9ef7f5-4125-835f-8b14-e1e631236300.htm" />
+    <HelpKINode Title="methods" Url="html/b0387efe-3bf9-dc0a-ffee-6e086929d9e4.htm" />
+    <HelpKINode Title="properties" Url="html/d15c45d2-2c5c-6e32-610b-e4014abcc402.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ManageEmployees.Connect method" Url="html/08395be8-6e5f-49fa-9078-71ebeacf95ff.htm" />
+  <HelpKINode Title="ManageEmployees.DefaultViewModel property" Url="html/5686059a-2b29-2f59-e51a-e3cb95c21b9f.htm" />
+  <HelpKINode Title="ManageEmployees.GetEmployees method" Url="html/03d89bc3-b4aa-14a8-7c96-85864eae5461.htm" />
+  <HelpKINode Title="ManageEmployees.InitializeComponent method" Url="html/d63f3ffc-212a-fb4a-606d-a3a5bf6355fe.htm" />
+  <HelpKINode Title="ManageEmployees.ManageEmployees constructor" Url="html/f3669c4a-030f-ad48-5d9c-9ba6dd44cb3f.htm" />
+  <HelpKINode Title="ManageEmployees.NavigationHelper property" Url="html/07ed9328-4b07-d8c6-04e0-315888955bb7.htm" />
+  <HelpKINode Title="ManagerMain class">
+    <HelpKINode Title="ManagerMain Class" Url="html/ce29b33e-dfba-7adf-1d8e-e93860a25e6b.htm" />
+    <HelpKINode Title="about ManagerMain class" Url="html/ce29b33e-dfba-7adf-1d8e-e93860a25e6b.htm" />
+    <HelpKINode Title="constructor" Url="html/6d9aaeb7-a672-f0ad-976b-1331a0860b14.htm" />
+    <HelpKINode Title="events" Url="html/b66f90c9-01e0-db81-fc3e-d593dbd1a44a.htm" />
+    <HelpKINode Title="methods" Url="html/5163eec2-731e-34aa-90f9-f5083f61919a.htm" />
+    <HelpKINode Title="properties" Url="html/f4f55354-3aa2-57ed-2ea5-27a00f27c736.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ManagerMain.Connect method" Url="html/60c83e88-922d-fa7b-90cd-5b50971ffad0.htm" />
+  <HelpKINode Title="ManagerMain.InitializeComponent method" Url="html/6c44cf61-d84c-fe7b-b0a1-485c58e6be93.htm" />
+  <HelpKINode Title="ManagerMain.ManagerMain constructor" Url="html/6d9aaeb7-a672-f0ad-976b-1331a0860b14.htm" />
+  <HelpKINode Title="MapChanged event" Url="html/82d77f89-adb3-d70f-9419-a1cafb2711fd.htm" />
+  <HelpKINode Title="MenuItem class">
+    <HelpKINode Title="MenuItem Class" Url="html/d3e66b5a-f92f-7b8e-e196-69c8edf983c4.htm" />
+    <HelpKINode Title="about MenuItem class" Url="html/d3e66b5a-f92f-7b8e-e196-69c8edf983c4.htm" />
+    <HelpKINode Title="constructor" Url="html/b81cbc4b-23b5-44ac-9278-a0e73539ca6f.htm" />
+    <HelpKINode Title="methods" Url="html/1ea0e4c2-3b2b-641d-17fe-307fafa83295.htm" />
+    <HelpKINode Title="properties" Url="html/1bab21f8-2731-a058-4434-8d59c652cc9a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Menuitem property" Url="html/ab7d144d-9806-99f5-f2a4-f91a802b0627.htm" />
+  <HelpKINode Title="MenuItem.Category property" Url="html/b16d34ac-dd3b-4edb-c105-eb7a96e1dd91.htm" />
+  <HelpKINode Title="MenuItem.Id property" Url="html/b0c15194-4927-8105-0e3f-435361d397c5.htm" />
+  <HelpKINode Title="MenuItem.MenuItem constructor" Url="html/b81cbc4b-23b5-44ac-9278-a0e73539ca6f.htm" />
+  <HelpKINode Title="MenuItem.Name property" Url="html/80af6f29-d985-8c32-5067-c8486d117c80.htm" />
+  <HelpKINode Title="MenuItem.Price property" Url="html/bd59355e-d3a7-664b-d024-802f10c45ccb.htm" />
+  <HelpKINode Title="MobileService field" Url="html/3d65720b-ef2e-ca8d-1c5f-ed0047b47016.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="Employee.Name Property " Url="html/036432dc-12cd-46de-6dc0-5c7baee3dbc5.htm" />
+    <HelpKINode Title="FoodProgress.Name Property " Url="html/2b6f0150-14ec-832d-06fb-8536abb2d306.htm" />
+    <HelpKINode Title="FoodTable.Name Property " Url="html/a9008adf-6b82-f547-18de-a559379d97b0.htm" />
+    <HelpKINode Title="MenuItem.Name Property " Url="html/80af6f29-d985-8c32-5067-c8486d117c80.htm" />
+    <HelpKINode Title="OrderList.Name Property " Url="html/ccdac344-6e14-228f-2470-0b9490eb6f86.htm" />
+    <HelpKINode Title="Table.Name Property " Url="html/47f11f54-e022-fb43-1188-c551de93200b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NavigationHelper class">
+    <HelpKINode Title="NavigationHelper Class" Url="html/a5b7b57e-3990-1d58-f915-5f32d437da32.htm" />
+    <HelpKINode Title="about NavigationHelper class" Url="html/a5b7b57e-3990-1d58-f915-5f32d437da32.htm" />
+    <HelpKINode Title="constructor" Url="html/8cbe15e9-00d9-bb66-a605-672eeed01160.htm" />
+    <HelpKINode Title="events" Url="html/9eb1c2d3-2714-ad2e-1570-927ab2adcbea.htm" />
+    <HelpKINode Title="methods" Url="html/f4717809-eee1-3209-415d-0b0cc0d8a747.htm" />
+    <HelpKINode Title="properties" Url="html/5b996ccf-9cf8-644d-bc95-992385b83e09.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NavigationHelper property">
+    <HelpKINode Title="BusinessStats.NavigationHelper Property " Url="html/1ef107d6-8eab-c475-f6b9-8bb359c2e4a4.htm" />
+    <HelpKINode Title="EmployeeInfo.NavigationHelper Property " Url="html/f7c3955b-50fa-e05f-2668-15cf75b2601a.htm" />
+    <HelpKINode Title="FloorPlan.NavigationHelper Property " Url="html/10778a31-24d0-7c13-569d-03b0b6b910ea.htm" />
+    <HelpKINode Title="FoodMenuPage.NavigationHelper Property " Url="html/6d24d4ce-0902-9899-18bf-216868383a74.htm" />
+    <HelpKINode Title="FoodQueue.NavigationHelper Property " Url="html/a987fad3-3b2f-4782-78bd-f397fe188657.htm" />
+    <HelpKINode Title="ManageEmployees.NavigationHelper Property " Url="html/07ed9328-4b07-d8c6-04e0-315888955bb7.htm" />
+    <HelpKINode Title="OrderProgress.NavigationHelper Property " Url="html/51bcaca9-d73b-23d7-db4e-b4dceafaa08e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NavigationHelper.CanGoBack method" Url="html/f9354240-c8fc-17f5-0451-c5ceaee5d82e.htm" />
+  <HelpKINode Title="NavigationHelper.CanGoForward method" Url="html/fdd64157-99a9-5d9d-ce0f-dd3f5554f69f.htm" />
+  <HelpKINode Title="NavigationHelper.GoBack method" Url="html/e3dca6ad-19e1-0175-b0b0-9f97d7c077f0.htm" />
+  <HelpKINode Title="NavigationHelper.GoBackCommand property" Url="html/f8c785d0-a187-d211-36a4-e3541b368c66.htm" />
+  <HelpKINode Title="NavigationHelper.GoForward method" Url="html/7bb59b6c-b931-f86c-d774-796a00c42822.htm" />
+  <HelpKINode Title="NavigationHelper.GoForwardCommand property" Url="html/1e17ee62-4317-194a-789c-9c03d2fe48c8.htm" />
+  <HelpKINode Title="NavigationHelper.LoadState event" Url="html/b3606cc6-29ff-da4a-0139-c108fc1cc9e8.htm" />
+  <HelpKINode Title="NavigationHelper.NavigationHelper constructor" Url="html/8cbe15e9-00d9-bb66-a605-672eeed01160.htm" />
+  <HelpKINode Title="NavigationHelper.OnNavigatedFrom method" Url="html/bed0265a-4380-405c-3945-fe78ec073f1b.htm" />
+  <HelpKINode Title="NavigationHelper.OnNavigatedTo method" Url="html/c244dc52-daf4-5a39-e200-13cf5eccaea4.htm" />
+  <HelpKINode Title="NavigationHelper.SaveState event" Url="html/96ed93a4-34ea-459f-f010-96d1c2755b4b.htm" />
+  <HelpKINode Title="NavigationParameter property" Url="html/1b45474f-6a7d-e415-f0da-70e00b86ac85.htm" />
+  <HelpKINode Title="newOrder field" Url="html/03d4d7bb-05c7-d7e4-f703-e3cd6b8cdacb.htm" />
+  <HelpKINode Title="newOrderItem field" Url="html/8e64658f-f4cd-e667-3084-f5ff30c3aeed.htm" />
+  <HelpKINode Title="NewOrderList field" Url="html/bb5676a8-2721-7c87-4c3f-51d080383794.htm" />
+  <HelpKINode Title="ObservableDictionary class">
+    <HelpKINode Title="ObservableDictionary Class" Url="html/6049b56c-1775-c4c7-4c8f-b8cce084d545.htm" />
+    <HelpKINode Title="about ObservableDictionary class" Url="html/6049b56c-1775-c4c7-4c8f-b8cce084d545.htm" />
+    <HelpKINode Title="constructor" Url="html/20d3c84c-23b0-6c01-dd7d-c35886874df8.htm" />
+    <HelpKINode Title="events" Url="html/1f9807f4-35c8-099b-581a-c157f2ae8269.htm" />
+    <HelpKINode Title="methods" Url="html/abbd7795-7326-b1eb-fa98-6efe2ee4dccc.htm" />
+    <HelpKINode Title="properties" Url="html/68c81daa-f48a-8fb7-2602-c6963f39d8c2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObservableDictionary.Add method" Url="html/abf3f6f2-0414-1ef9-9262-8a59731ea417.htm" />
+  <HelpKINode Title="ObservableDictionary.Clear method" Url="html/f2afd9cd-f7d5-362e-6e0a-38c24899289f.htm" />
+  <HelpKINode Title="ObservableDictionary.Contains method" Url="html/4a7d70fe-f931-d722-494f-b57884781c9e.htm" />
+  <HelpKINode Title="ObservableDictionary.ContainsKey method" Url="html/7bd95a63-a49f-1b91-ed9b-9c97e21abc10.htm" />
+  <HelpKINode Title="ObservableDictionary.CopyTo method" Url="html/92b7c5d6-8f45-044b-adf2-a89608a6dc66.htm" />
+  <HelpKINode Title="ObservableDictionary.Count property" Url="html/1efe978e-08d8-cd3f-717b-fafa54854c9c.htm" />
+  <HelpKINode Title="ObservableDictionary.GetEnumerator method" Url="html/b1e7cb4c-87a5-28b3-262a-fa80b99ae10d.htm" />
+  <HelpKINode Title="ObservableDictionary.IsReadOnly property" Url="html/7c03dd5c-b4aa-e5c8-d062-33f2e62c3028.htm" />
+  <HelpKINode Title="ObservableDictionary.Item property" Url="html/33324a3a-a0f3-c6f7-e42f-a61dbdf782c1.htm" />
+  <HelpKINode Title="ObservableDictionary.Keys property" Url="html/237e7df6-5977-f7d8-8ba2-8aac662f98f2.htm" />
+  <HelpKINode Title="ObservableDictionary.MapChanged event" Url="html/82d77f89-adb3-d70f-9419-a1cafb2711fd.htm" />
+  <HelpKINode Title="ObservableDictionary.ObservableDictionary constructor" Url="html/20d3c84c-23b0-6c01-dd7d-c35886874df8.htm" />
+  <HelpKINode Title="ObservableDictionary.Remove method" Url="html/b6fbe5c0-248b-336c-0d03-88328f71edcf.htm" />
+  <HelpKINode Title="ObservableDictionary.TryGetValue method" Url="html/a17b1dc5-6a16-7005-b8cd-5ea16faf06d9.htm" />
+  <HelpKINode Title="ObservableDictionary.Values property" Url="html/51bd822f-72e1-5b51-9b96-0a1b2ecd1b18.htm" />
+  <HelpKINode Title="OnNavigatedFrom method" Url="html/bed0265a-4380-405c-3945-fe78ec073f1b.htm" />
+  <HelpKINode Title="OnNavigatedTo method" Url="html/c244dc52-daf4-5a39-e200-13cf5eccaea4.htm" />
+  <HelpKINode Title="Order class">
+    <HelpKINode Title="Order Class" Url="html/11eaf1a2-f465-b7ec-e89a-ec54ea027955.htm" />
+    <HelpKINode Title="about Order class" Url="html/11eaf1a2-f465-b7ec-e89a-ec54ea027955.htm" />
+    <HelpKINode Title="constructor" Url="html/c01839d8-754c-8149-eb9c-9ff9994f8fd7.htm" />
+    <HelpKINode Title="methods" Url="html/138a7ccf-031e-2ec3-eed1-08e0c709e39e.htm" />
+    <HelpKINode Title="properties" Url="html/31c9d9d1-6bc6-4257-76b3-76891c549131.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Order.Completed property" Url="html/dda1fe67-cc2a-7345-ee7b-97a70fe45c83.htm" />
+  <HelpKINode Title="Order.Cost property" Url="html/c8777143-2e80-9a38-cc93-7f4fb3cb2e84.htm" />
+  <HelpKINode Title="Order.Id property" Url="html/3be2f894-f004-2d57-29d3-3e1b2c9072c6.htm" />
+  <HelpKINode Title="Order.Order constructor" Url="html/c01839d8-754c-8149-eb9c-9ff9994f8fd7.htm" />
+  <HelpKINode Title="Order.Ordernum property" Url="html/12772ffb-d12c-91b8-5d1b-72d6d88743ef.htm" />
+  <HelpKINode Title="Order.Tablename property" Url="html/9c17bee5-283e-7fa8-2dbc-413cf01e4683.htm" />
+  <HelpKINode Title="Orderid property">
+    <HelpKINode Title="FoodQueue.Orderid Property " Url="html/9fa8ce11-d90f-c3de-1d60-f635a288bce5.htm" />
+    <HelpKINode Title="OrderList.Orderid Property " Url="html/b540bf85-95ec-d62e-df55-c17093f26d27.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OrderID property" Url="html/c436cf17-3966-d028-1ea3-1a6a2edca3a0.htm" />
+  <HelpKINode Title="OrderIndex field" Url="html/9fe2cbb2-dd32-ce19-488e-386d09a20f68.htm" />
+  <HelpKINode Title="OrderItemIndex field" Url="html/2c322ac8-4c13-99cc-cdf4-9dddecb91ba1.htm" />
+  <HelpKINode Title="OrderList class">
+    <HelpKINode Title="OrderList Class" Url="html/103d636e-05d4-eca6-e76d-9b4d115b707e.htm" />
+    <HelpKINode Title="about OrderList class" Url="html/103d636e-05d4-eca6-e76d-9b4d115b707e.htm" />
+    <HelpKINode Title="constructor" Url="html/b6d4ffab-150b-6e72-eeb5-ce827f95f28f.htm" />
+    <HelpKINode Title="methods" Url="html/590377ce-85b6-d5a7-a56a-d40ca99bd400.htm" />
+    <HelpKINode Title="properties" Url="html/b105a8f8-7d67-3921-4795-0ed6fcba2cb0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OrderList.Completed property" Url="html/78fb5533-9d3a-08b8-2e10-e3021261c3fd.htm" />
+  <HelpKINode Title="OrderList.Id property" Url="html/b3be9a59-d484-88a6-1440-0edebc0858e8.htm" />
+  <HelpKINode Title="OrderList.Name property" Url="html/ccdac344-6e14-228f-2470-0b9490eb6f86.htm" />
+  <HelpKINode Title="OrderList.Orderid property" Url="html/b540bf85-95ec-d62e-df55-c17093f26d27.htm" />
+  <HelpKINode Title="OrderList.OrderList constructor" Url="html/b6d4ffab-150b-6e72-eeb5-ce827f95f28f.htm" />
+  <HelpKINode Title="OrderList.Price property" Url="html/bf2e6cf1-09b7-e047-7877-f193cc37dddb.htm" />
+  <HelpKINode Title="Ordernum property" Url="html/12772ffb-d12c-91b8-5d1b-72d6d88743ef.htm" />
+  <HelpKINode Title="OrderProgress class">
+    <HelpKINode Title="OrderProgress Class" Url="html/f0e06c19-42a0-f00f-83f4-a16fd29c19f8.htm" />
+    <HelpKINode Title="about OrderProgress class" Url="html/f0e06c19-42a0-f00f-83f4-a16fd29c19f8.htm" />
+    <HelpKINode Title="constructor" Url="html/3a344102-6152-a22d-20db-01d2e5dce8be.htm" />
+    <HelpKINode Title="events" Url="html/92e3c6b5-3c24-0b70-20fa-687b1a6eaf7e.htm" />
+    <HelpKINode Title="fields" Url="html/f0adf14f-ca3e-ce00-4e32-d6ffa146f897.htm" />
+    <HelpKINode Title="methods" Url="html/38374667-9edd-feb2-7026-875f3262eef7.htm" />
+    <HelpKINode Title="properties" Url="html/66df88cf-8947-d354-a051-146259045a4e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OrderProgress.Connect method" Url="html/d3a3bf1a-88a7-caa6-55fa-def06ffe86d3.htm" />
+  <HelpKINode Title="OrderProgress.DefaultViewModel property" Url="html/01cc77e2-efbb-1810-3d5c-6820b3dcb518.htm" />
+  <HelpKINode Title="OrderProgress.GetOrderList method" Url="html/a0b45a29-0472-0cfb-133d-852a463a0c4c.htm" />
+  <HelpKINode Title="OrderProgress.GetOrders method" Url="html/b67dca9c-849d-74d1-d509-e22ea8c5e355.htm" />
+  <HelpKINode Title="OrderProgress.GetProgress method" Url="html/97a60689-fe90-ecfe-a798-1bbd8ca073ad.htm" />
+  <HelpKINode Title="OrderProgress.InitializeComponent method" Url="html/6b0dadaa-7286-064c-2aa8-99c8a722681e.htm" />
+  <HelpKINode Title="OrderProgress.NavigationHelper property" Url="html/51bcaca9-d73b-23d7-db4e-b4dceafaa08e.htm" />
+  <HelpKINode Title="OrderProgress.OrderProgress constructor" Url="html/3a344102-6152-a22d-20db-01d2e5dce8be.htm" />
+  <HelpKINode Title="OrderProgress.totalFinishedOrders field" Url="html/aa223f35-2950-8595-6652-d2c33393f501.htm" />
+  <HelpKINode Title="OrderProgress.totalOrders field" Url="html/b3f7b146-c6eb-4f2b-0777-3fd6281e40ea.htm" />
+  <HelpKINode Title="PageState property">
+    <HelpKINode Title="LoadStateEventArgs.PageState Property " Url="html/0a5590f4-38a2-69a6-b5a6-021b84367d30.htm" />
+    <HelpKINode Title="SaveStateEventArgs.PageState Property " Url="html/6a25d030-10ed-dfb3-4938-0c76a095205f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Password property" Url="html/50bcd71d-085f-d393-9b54-659dfad8a6fa.htm" />
+  <HelpKINode Title="PhoneNumber property" Url="html/f079fb52-4990-57e5-8b1c-9bfa279c8613.htm" />
+  <HelpKINode Title="Position property" Url="html/17679f2c-f703-b9b2-40f3-89579f3d989d.htm" />
+  <HelpKINode Title="Price property">
+    <HelpKINode Title="MenuItem.Price Property " Url="html/bd59355e-d3a7-664b-d024-802f10c45ccb.htm" />
+    <HelpKINode Title="OrderList.Price Property " Url="html/bf2e6cf1-09b7-e047-7877-f193cc37dddb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/5bd16b1a-7347-524b-11f2-5fbb50191d2a.htm" />
+    <HelpKINode Title="about Program class" Url="html/5bd16b1a-7347-524b-11f2-5fbb50191d2a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Progress property">
+    <HelpKINode Title="FoodProgress.Progress Property " Url="html/2210ed41-26c8-4128-feff-c45bb1bcad5a.htm" />
+    <HelpKINode Title="FoodQueue.Progress Property " Url="html/2e75f784-ee78-4c1d-e2cc-105b513a3929.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RaiseCanExecuteChanged method" Url="html/16a4c4f9-d861-e759-2054-e981f59f2a17.htm" />
+  <HelpKINode Title="RelayCommand class">
+    <HelpKINode Title="RelayCommand Class" Url="html/8005a0e5-99be-123e-ca0a-fe382be5045b.htm" />
+    <HelpKINode Title="about RelayCommand class" Url="html/8005a0e5-99be-123e-ca0a-fe382be5045b.htm" />
+    <HelpKINode Title="constructor" Url="html/5362ead8-b616-2d4d-1bf0-c218e5e52477.htm" />
+    <HelpKINode Title="events" Url="html/48630511-6fed-9827-d620-c8282a22f163.htm" />
+    <HelpKINode Title="methods" Url="html/e81f9458-72f6-4f56-fdfe-b7ee9038d44c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RelayCommand.CanExecute method" Url="html/53f20739-761b-1910-b4cb-0bc53e34a216.htm" />
+  <HelpKINode Title="RelayCommand.CanExecuteChanged event" Url="html/507d2fb8-9d84-dd20-96db-ce0d835c51c9.htm" />
+  <HelpKINode Title="RelayCommand.Execute method" Url="html/2a899719-aa02-870c-3bd5-a082b773a028.htm" />
+  <HelpKINode Title="RelayCommand.RaiseCanExecuteChanged method" Url="html/16a4c4f9-d861-e759-2054-e981f59f2a17.htm" />
+  <HelpKINode Title="RelayCommand.RelayCommand constructor" Url="html/5362ead8-b616-2d4d-1bf0-c218e5e52477.htm" />
+  <HelpKINode Title="Remove method" Url="html/b6fbe5c0-248b-336c-0d03-88328f71edcf.htm" />
+  <HelpKINode Title="Salary property" Url="html/cb328567-213d-4de0-e386-ec7ded2daed3.htm" />
+  <HelpKINode Title="SaveState event" Url="html/96ed93a4-34ea-459f-f010-96d1c2755b4b.htm" />
+  <HelpKINode Title="SaveStateEventArgs class">
+    <HelpKINode Title="SaveStateEventArgs Class" Url="html/a4b17f9a-6d43-0194-1179-8404bb239258.htm" />
+    <HelpKINode Title="about SaveStateEventArgs class" Url="html/a4b17f9a-6d43-0194-1179-8404bb239258.htm" />
+    <HelpKINode Title="constructor" Url="html/5ec1fd6c-53d6-fd10-918b-1a67aa7dbf54.htm" />
+    <HelpKINode Title="methods" Url="html/a8cdfff8-dec1-41fc-fadc-c423909d3acf.htm" />
+    <HelpKINode Title="properties" Url="html/b4fbd7bf-9130-7db8-d973-2c2620ec1495.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SaveStateEventArgs.PageState property" Url="html/6a25d030-10ed-dfb3-4938-0c76a095205f.htm" />
+  <HelpKINode Title="SaveStateEventArgs.SaveStateEventArgs constructor" Url="html/5ec1fd6c-53d6-fd10-918b-1a67aa7dbf54.htm" />
+  <HelpKINode Title="SaveStateEventHandler delegate" Url="html/5302a259-b79d-7e68-64b4-3d724d48cdeb.htm" />
+  <HelpKINode Title="Status property" Url="html/454eff83-e198-4c84-8e94-3aeaa7a7047c.htm" />
+  <HelpKINode Title="SuspensionManagerException class">
+    <HelpKINode Title="SuspensionManagerException Class" Url="html/4af64d97-a148-3874-ac10-9db48718a223.htm" />
+    <HelpKINode Title="about SuspensionManagerException class" Url="html/4af64d97-a148-3874-ac10-9db48718a223.htm" />
+    <HelpKINode Title="constructor" Url="html/17f00012-6ba2-45a3-16f4-3c0e52875dce.htm" />
+    <HelpKINode Title="methods" Url="html/f685d114-3e1b-c738-cd60-4392f8165489.htm" />
+    <HelpKINode Title="properties" Url="html/d3672938-9873-d75f-3bf4-4cfea9cd416a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SuspensionManagerException.SuspensionManagerException constructor" Url="html/17f00012-6ba2-45a3-16f4-3c0e52875dce.htm" />
+  <HelpKINode Title="Table class">
+    <HelpKINode Title="Table Class" Url="html/502481f3-d3d9-6048-0fca-9bfdd5f7c7f8.htm" />
+    <HelpKINode Title="about Table class" Url="html/502481f3-d3d9-6048-0fca-9bfdd5f7c7f8.htm" />
+    <HelpKINode Title="constructor" Url="html/4063162b-d487-df57-f5d9-393422df8dfd.htm" />
+    <HelpKINode Title="methods" Url="html/394eca65-5b89-f0b1-c4b2-f062afb96256.htm" />
+    <HelpKINode Title="properties" Url="html/f6c022ac-d8ac-672d-2626-a3147e45a95f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Table.Id property" Url="html/d478977b-af9e-4443-775d-457827ab43af.htm" />
+  <HelpKINode Title="Table.Name property" Url="html/47f11f54-e022-fb43-1188-c551de93200b.htm" />
+  <HelpKINode Title="Table.OrderID property" Url="html/c436cf17-3966-d028-1ea3-1a6a2edca3a0.htm" />
+  <HelpKINode Title="Table.Status property" Url="html/454eff83-e198-4c84-8e94-3aeaa7a7047c.htm" />
+  <HelpKINode Title="Table.Table constructor" Url="html/4063162b-d487-df57-f5d9-393422df8dfd.htm" />
+  <HelpKINode Title="tableIndex field" Url="html/c49395fa-fe8d-d3cb-c811-32661d3a3dfc.htm" />
+  <HelpKINode Title="Tablename property" Url="html/9c17bee5-283e-7fa8-2dbc-413cf01e4683.htm" />
+  <HelpKINode Title="TableName property" Url="html/bbccb80c-b254-730f-a430-99ae4d7f47b2.htm" />
+  <HelpKINode Title="tempOrderlist field" Url="html/5e8a53bb-9f7b-4a82-02aa-897268189d01.htm" />
+  <HelpKINode Title="Text property" Url="html/98db6e1b-9cf8-70f1-0b54-c80c79c5107a.htm" />
+  <HelpKINode Title="ToAlphaGroups(Of TSource) method" Url="html/a1e03f1a-7719-0588-4614-c70f0f55aa12.htm" />
+  <HelpKINode Title="ToAlphaGroups&lt;TSource&gt; method" Url="html/a1e03f1a-7719-0588-4614-c70f0f55aa12.htm" />
+  <HelpKINode Title="TodoItem class">
+    <HelpKINode Title="TodoItem Class" Url="html/c6c600b8-6a04-12aa-a22b-e53138478f2a.htm" />
+    <HelpKINode Title="about TodoItem class" Url="html/c6c600b8-6a04-12aa-a22b-e53138478f2a.htm" />
+    <HelpKINode Title="constructor" Url="html/bd972985-398c-f9a6-bce6-738ab20d2ea0.htm" />
+    <HelpKINode Title="methods" Url="html/c9c7015a-cb14-501c-90f3-0627bc8463f0.htm" />
+    <HelpKINode Title="properties" Url="html/edd1ec8b-49f3-bf04-86d8-5c3c5fe0b72f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TodoItem.Complete property" Url="html/3927792b-ffd0-c79b-75e1-4aad203610e9.htm" />
+  <HelpKINode Title="TodoItem.Id property" Url="html/10301b26-3326-9757-daac-a475b97af70b.htm" />
+  <HelpKINode Title="TodoItem.Text property" Url="html/98db6e1b-9cf8-70f1-0b54-c80c79c5107a.htm" />
+  <HelpKINode Title="TodoItem.TodoItem constructor" Url="html/bd972985-398c-f9a6-bce6-738ab20d2ea0.htm" />
+  <HelpKINode Title="ToGroups(Of TSource, TSort, TGroup) method" Url="html/c91f1023-5aad-685c-3bd7-166adfafbfaf.htm" />
+  <HelpKINode Title="ToGroups&lt;TSource, TSort, TGroup&gt; method" Url="html/c91f1023-5aad-685c-3bd7-166adfafbfaf.htm" />
+  <HelpKINode Title="totalFinishedOrders field" Url="html/aa223f35-2950-8595-6652-d2c33393f501.htm" />
+  <HelpKINode Title="totalOrders field" Url="html/b3f7b146-c6eb-4f2b-0777-3fd6281e40ea.htm" />
+  <HelpKINode Title="TryGetValue method" Url="html/a17b1dc5-6a16-7005-b8cd-5ea16faf06d9.htm" />
+  <HelpKINode Title="UpdateTable method">
+    <HelpKINode Title="FloorPlan.UpdateTable Method " Url="html/6d648ab1-c3b0-9253-2b9d-9f159771c7b3.htm" />
+    <HelpKINode Title="FoodMenuPage.UpdateTable Method " Url="html/669cb6cd-dddf-84d9-ed3a-4e5947aca073.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Username property" Url="html/8532a503-337c-df62-fccd-80b1564e96c9.htm" />
+  <HelpKINode Title="Values property" Url="html/51bd822f-72e1-5b51-9b96-0a1b2ecd1b18.htm" />
+  <HelpKINode Title="WaiterMain class">
+    <HelpKINode Title="WaiterMain Class" Url="html/99453436-7013-34af-b1f6-2e73d35d2b2a.htm" />
+    <HelpKINode Title="about WaiterMain class" Url="html/99453436-7013-34af-b1f6-2e73d35d2b2a.htm" />
+    <HelpKINode Title="constructor" Url="html/229a568e-2952-d743-0479-c223c58d3e8c.htm" />
+    <HelpKINode Title="events" Url="html/cb6903ca-ab0b-3599-34dd-15b701b6c2b6.htm" />
+    <HelpKINode Title="methods" Url="html/010c8446-f5d6-a61b-e00f-357ae3bebe7d.htm" />
+    <HelpKINode Title="properties" Url="html/aacd02ea-857c-7c95-b0cf-d938f61dc504.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WaiterMain.Connect method" Url="html/e56130d2-80d7-2b11-3a5f-45030502dac7.htm" />
+  <HelpKINode Title="WaiterMain.InitializeComponent method" Url="html/81054249-4f54-9cab-c141-4e18f2325d25.htm" />
+  <HelpKINode Title="WaiterMain.WaiterMain constructor" Url="html/229a568e-2952-d743-0479-c223c58d3e8c.htm" />
+</HelpKI>
